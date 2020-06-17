@@ -1,0 +1,2375 @@
+0
+00:00:05,000 --> 00:00:15,000
+INDOXXI
+Support dengan like & share :)
+
+﻿1
+00:00:08,258 --> 00:00:10,677
+Apa itu Mythic Quest?
+
+2
+00:00:13,013 --> 00:00:15,390
+Ada yang bilang itu cuma video gim.
+
+3
+00:00:18,393 --> 00:00:23,106
+Saat gim ini pertama rilis,
+MQ disebut sebagai mahakarya.
+
+4
+00:00:23,690 --> 00:00:27,027
+Kini dimainkan di 20 negara,
+di enam benua,
+
+5
+00:00:27,110 --> 00:00:32,783
+ini gim permainan peran multipemain masif
+terbesar sepanjang zaman.
+
+6
+00:00:32,866 --> 00:00:37,079
+Namun dalam industri yang berubah-ubah
+tempat keberuntungan bisa berubah
+
+7
+00:00:37,663 --> 00:00:39,581
+dan para raksasa bisa tumbang...
+
+8
+00:00:41,041 --> 00:00:42,793
+mereka harus tetap bisa relevan.
+
+9
+00:00:43,293 --> 00:00:46,839
+Dan hari ini,
+nasib mereka berada di ujung tanduk
+
+10
+00:00:46,922 --> 00:00:49,967
+pada acara terpenting bagi mereka
+sejak peluncuran.
+
+11
+00:00:50,592 --> 00:00:56,056
+Ekspansi besar pertama mereka,
+Mythic Quest: Raven's Banquet.
+
+12
+00:00:57,349 --> 00:01:00,853
+Dan semua itu bergantung
+di pundak satu orang.
+
+13
+00:01:00,936 --> 00:01:03,438
+Direktur Kreatif Ian Grimm.
+
+14
+00:01:03,522 --> 00:01:07,025
+Saat aku pertama menciptakan MQ,
+tujuanku bukan cuma membuat gim.
+
+15
+00:01:07,109 --> 00:01:08,527
+IAN GRIMM
+DIREKTUR KREATIF
+
+16
+00:01:09,152 --> 00:01:10,737
+Aku ingin membangun sebuah dunia.
+
+17
+00:01:10,821 --> 00:01:14,533
+Dan Raven's Banquet adalah
+langkah berikutnya ke dalam dunia itu.
+
+18
+00:01:14,616 --> 00:01:17,119
+Tentunya, satu orang tak bisa
+melakukan ini sendirian.
+
+19
+00:01:17,578 --> 00:01:21,206
+Butuh ribuan orang untuk membuat
+dunia seperti ini berjalan mulus.
+
+20
+00:01:21,832 --> 00:01:25,169
+Orang seperti
+Produser Eksekutif David Brittlesbee...
+
+21
+00:01:26,170 --> 00:01:27,921
+Kepala Perekayasa Poppy Li.
+
+22
+00:01:29,047 --> 00:01:32,426
+Orang seperti Brad Bakshi,
+Kepala Monetisasi.
+
+23
+00:01:32,926 --> 00:01:36,263
+Satu hal yang MQ punya
+tetapi tak dimiliki gim lain
+
+24
+00:01:36,346 --> 00:01:40,100
+adalah penulis pemenang Nebula Award,
+C.W. Longbottom.
+
+25
+00:01:40,184 --> 00:01:41,185
+KEPALA PENULIS
+
+26
+00:01:41,268 --> 00:01:42,311
+Siap membantu.
+
+27
+00:01:42,394 --> 00:01:46,899
+Tetapi pada akhirnya semua
+harus sejalan dengan visi penciptanya.
+
+28
+00:01:47,399 --> 00:01:48,859
+Dan dia punya impian besar.
+
+29
+00:01:48,942 --> 00:01:51,361
+Saat kita memikirkan soal seni populer,
+
+30
+00:01:51,904 --> 00:01:55,073
+kita terpikir ET, Star Wars, Avatar,
+
+31
+00:01:55,490 --> 00:01:59,995
+namun industri kami jauh di atas
+bisnis hiburan tradisional.
+
+32
+00:02:00,078 --> 00:02:02,289
+Jadi saat kita memikirkan
+yang melegenda...
+
+33
+00:02:03,290 --> 00:02:05,959
+kenapa tak terpikir, Mythic Quest?
+
+34
+00:02:06,043 --> 00:02:07,252
+Benar sekali.
+
+35
+00:02:07,336 --> 00:02:10,672
+Dan saat kita memikirkan
+seniman pembangun dunia yang visioner,
+
+36
+00:02:10,756 --> 00:02:14,551
+daripada hanya
+Spielberg, Lucas, dan Cameron,
+
+37
+00:02:14,635 --> 00:02:16,553
+kenapa tak terpikir...
+
+38
+00:02:18,180 --> 00:02:19,348
+Grimm?
+
+39
+00:02:23,101 --> 00:02:25,771
+Maaf, aku harus menyela. Apa ini?
+
+40
+00:02:26,730 --> 00:02:29,358
+- Ini iklan untuk gim.
+- Ini iklan untuk dirimu.
+
+41
+00:02:29,441 --> 00:02:30,442
+Masih berlanjut.
+
+42
+00:02:35,072 --> 00:02:37,908
+Astaga.
+
+43
+00:02:39,243 --> 00:02:41,453
+Menurutku ini brilian.
+
+44
+00:02:57,177 --> 00:03:01,932
+Satu benua baru,
+lebih dari seribu benda dapat dimainkan,
+
+45
+00:03:02,015 --> 00:03:06,144
+semua dibangun di atas dasar kode terkuat
+dalam sejarah MMO.
+
+46
+00:03:06,228 --> 00:03:08,438
+Aku tak mau menyombongkan diri,
+
+47
+00:03:08,522 --> 00:03:12,317
+tetapi aku dan timku telah membuat
+sesuatu yang cemerlang, jadi...
+
+48
+00:03:13,652 --> 00:03:15,612
+Raven's Banquet siap dirilis!
+
+49
+00:03:15,696 --> 00:03:18,532
+- Hebat! Luar biasa.
+- Terima kasih.
+
+50
+00:03:18,615 --> 00:03:22,828
+Luar biasa sekali, Poppy.
+Ekspansi ini akan memukau mereka.
+
+51
+00:03:22,911 --> 00:03:25,747
+Tetapi kita yakin ini sudah selesai?
+
+52
+00:03:25,831 --> 00:03:28,250
+Kurasa selesai. Kita sudah kerjakan
+dua tahun. Ini sempurna.
+
+53
+00:03:28,333 --> 00:03:31,920
+Tidak, kita seperti hampir sampai sana,
+hampir sempurna.
+
+54
+00:03:32,004 --> 00:03:33,505
+- Itu dari mana?
+- Ini punyaku.
+
+55
+00:03:33,589 --> 00:03:35,757
+Tak ada yang ingat
+"hampir sempurna", bukan?
+
+56
+00:03:35,841 --> 00:03:37,926
+Seperti... Ini.
+
+57
+00:03:38,010 --> 00:03:39,469
+Baiklah, ini apa, Pop?
+
+58
+00:03:39,970 --> 00:03:40,971
+Itu sekop.
+
+59
+00:03:42,014 --> 00:03:44,641
+Ini hanya benda MTX
+yang kubuat untuk diriku.
+
+60
+00:03:44,725 --> 00:03:46,435
+Gim ini adalah visimu. Kupikir itu...
+
+61
+00:03:46,518 --> 00:03:48,395
+Benar.
+Hanya saja ada yang aneh dengan itu.
+
+62
+00:03:48,478 --> 00:03:50,439
+Benar? Seperti ini tak benar-benar...
+
+63
+00:03:51,940 --> 00:03:53,150
+keren.
+
+64
+00:03:53,609 --> 00:03:55,569
+"Keren"? "Keren".
+
+65
+00:03:55,652 --> 00:03:57,821
+Tidak, ini sebenarnya keren,
+
+66
+00:03:57,905 --> 00:04:00,949
+karena ini menyajikan mekanika gim
+yang sepenuhnya baru: menggali.
+
+67
+00:04:01,575 --> 00:04:04,953
+Kini pemain
+bisa mengubah lanskap dari gim.
+
+68
+00:04:06,371 --> 00:04:08,707
+- Pop, tak ada yang mau beli itu.
+- Boleh bicara?
+
+69
+00:04:08,790 --> 00:04:11,502
+Mungkin sekop itu perlu cerita latar.
+
+70
+00:04:11,919 --> 00:04:14,671
+Siapa yang melahirkan
+sekop-bumi misterius ini?
+
+71
+00:04:15,255 --> 00:04:16,589
+Apakah para Dewa?
+
+72
+00:04:16,673 --> 00:04:21,470
+Apa mereka disusui dada Hera
+seperti bayi menyusu payudara ibunya?
+
+73
+00:04:22,137 --> 00:04:24,640
+- Itu cukup bagus.
+- Ya, aku bisa jual payudara. Itu saja.
+
+74
+00:04:24,723 --> 00:04:27,100
+Tidak. Jangan buat payudara.
+
+75
+00:04:27,768 --> 00:04:30,270
+Keuangan di lantai tiga, Pemasaran di dua.
+
+76
+00:04:30,354 --> 00:04:32,105
+Dukungan Teknologi di enam,
+
+77
+00:04:32,189 --> 00:04:35,400
+dan ini... di sinilah keajaiban terjadi.
+
+78
+00:04:35,817 --> 00:04:39,530
+Semua kepala tim pengembangan ada di sini
+dan aku yang mengepalainya.
+
+79
+00:04:39,613 --> 00:04:41,615
+Wah. Apa itu kantormu?
+
+80
+00:04:42,616 --> 00:04:45,536
+Bukan. Itu bukan kantorku. Itu kantor Ian.
+Dia direktur kreatif.
+
+81
+00:04:45,619 --> 00:04:47,704
+Kenapa jauh lebih tinggi dari yang lain?
+
+82
+00:04:47,788 --> 00:04:50,499
+Tidak setinggi itu.
+Itu hanya anomali arsitektur, itu saja.
+
+83
+00:04:50,582 --> 00:04:53,919
+Dan orang yang paling berkuasa
+tidak selalu punya kantor terbesar, Jo.
+
+84
+00:04:54,002 --> 00:04:56,505
+Sebenarnya, aku bukan yang paling berkuasa
+di perusahaan ini.
+
+85
+00:04:56,588 --> 00:04:59,508
+Studio ini dimiliki oleh
+konglomerat induk di Montréal.
+
+86
+00:04:59,591 --> 00:05:00,592
+Begini saja...
+
+87
+00:05:00,676 --> 00:05:03,804
+Kau akan mempelajari ini
+di rapat staf beberapa menit lagi.
+
+88
+00:05:03,887 --> 00:05:05,597
+Omong-omong, sebagai asistenku,
+
+89
+00:05:05,681 --> 00:05:07,683
+Kuminta kau banyak mencatat karena
+
+90
+00:05:07,766 --> 00:05:09,726
+rapat staf adalah...
+
+91
+00:05:09,810 --> 00:05:13,397
+itu adalah bagian penting dari operasional
+di sini, dan aku kepala semuanya.
+
+92
+00:05:13,480 --> 00:05:15,399
+Apa itu rapat yang kau bicarakan?
+
+93
+00:05:16,650 --> 00:05:19,444
+Bukan. Itu tak mungkin
+karena mereka tak akan mulai tanpaku.
+
+94
+00:05:19,528 --> 00:05:21,405
+Kenapa mereka rapat tanpaku?
+
+95
+00:05:23,490 --> 00:05:27,578
+Tetapi ini keinginanku. Cuma ini mauku.
+Jangan pergi. Rapat belum usai.
+
+96
+00:05:27,661 --> 00:05:30,080
+Hei, Semuanya?
+Apa kalian sedang rapat staf?
+
+97
+00:05:30,163 --> 00:05:32,291
+Tidak, sebenarnya kami baru selesai.
+
+98
+00:05:33,000 --> 00:05:34,126
+Siapa ini?
+
+99
+00:05:34,209 --> 00:05:36,378
+Ini Jo. Dia asisten baruku.
+Jo, ini timnya.
+
+100
+00:05:36,461 --> 00:05:37,588
+Hai.
+
+101
+00:05:38,380 --> 00:05:40,591
+Halo. Baiklah jika itu saja...
+
+102
+00:05:40,674 --> 00:05:44,094
+Ian ingin mengubah sekopku
+dan mengundur rilisnya.
+
+103
+00:05:44,178 --> 00:05:47,222
+Mengundur rilis? Tidak, Ian,
+sesuai waktu dan anggaran, ingat?
+
+104
+00:05:47,306 --> 00:05:50,142
+Poppy, apa nama gim pertama
+yang membuatmu jatuh cinta?
+
+105
+00:05:50,225 --> 00:05:51,602
+- Contra.
+- Anak baru, ayo.
+
+106
+00:05:51,685 --> 00:05:53,228
+- Grand Theft Auto.
+- Brutal. Aku suka.
+
+107
+00:05:53,312 --> 00:05:54,313
+David?
+
+108
+00:05:54,396 --> 00:05:56,565
+Aku cenderung suka Ms. Pac-Man,
+tetapi kenapa...
+
+109
+00:05:56,648 --> 00:06:00,652
+Semua orang punya gim yang membuatnya
+jatuh cinta karena ada dampaknya.
+
+110
+00:06:01,069 --> 00:06:03,280
+Gim-gim itu adalah warisan seseorang.
+
+111
+00:06:03,363 --> 00:06:05,115
+Ini adalah warisanku.
+
+112
+00:06:05,199 --> 00:06:06,742
+- Warisan kita.
+- Warisan kita. Terserah.
+
+113
+00:06:06,825 --> 00:06:07,910
+Ini bukan warisanku.
+
+114
+00:06:07,993 --> 00:06:10,078
+Masih ada dua hari
+untuk penguncian kode, ya?
+
+115
+00:06:10,162 --> 00:06:12,539
+Jadi biar kuutak-atik satu hal kecil ini.
+
+116
+00:06:12,623 --> 00:06:14,625
+- Biar kuutak-atik.
+- Kau pakai kata itu lagi.
+
+117
+00:06:14,708 --> 00:06:17,544
+Kau pakai kata "utak-atik".
+Saat kau ucap itu, aku jadi cemas.
+
+118
+00:06:17,628 --> 00:06:21,965
+David, aku berjanji aku tak akan minta
+untuk menunda rilis ekspansinya.
+
+119
+00:06:25,135 --> 00:06:27,638
+Aku suka dia. Dia mampu.
+Rapat selesai?
+
+120
+00:06:27,721 --> 00:06:29,431
+- Rapat selesai. Ya.
+- Bagus.
+
+121
+00:06:39,274 --> 00:06:40,359
+PERNAHKAH "AKU"
+LIHAT INI??
+
+122
+00:06:40,442 --> 00:06:42,945
+Mereka rapat lagi tanpa kita? Ini konyol.
+
+123
+00:06:43,028 --> 00:06:45,948
+Kenapa mereka tak butuh opini kita?
+Kita hanya main 24 jam sehari.
+
+124
+00:06:46,365 --> 00:06:47,741
+Aku tahu, keren, bukan?
+
+125
+00:06:48,283 --> 00:06:50,285
+Ya, ini keren, tetapi ini seperti...
+
+126
+00:06:50,369 --> 00:06:52,955
+Kita lebih berarti dari cuma
+mencatat bug tiap hari, tahu?
+
+127
+00:06:53,372 --> 00:06:56,166
+Ayolah, Rachel.
+Kita baru enam bulan bekerja di sini.
+
+128
+00:06:56,250 --> 00:06:59,169
+Ya, tetapi, kau punya banyak ide hebat.
+
+129
+00:06:59,253 --> 00:07:01,338
+- Menurutku mereka harus dengar.
+- Benarkah?
+
+130
+00:07:01,421 --> 00:07:03,006
+Ya. Ada satu idemu kemarin.
+
+131
+00:07:03,090 --> 00:07:05,884
+Yaitu tentang memperbesar
+radius tendangan troll gunung.
+
+132
+00:07:08,804 --> 00:07:10,514
+Kau punya ingatan yang bagus.
+
+133
+00:07:10,931 --> 00:07:12,266
+Terima kasih.
+
+134
+00:07:12,349 --> 00:07:14,017
+Ide-idemu amat bagus. Jadi kau juga.
+
+135
+00:07:14,101 --> 00:07:15,602
+Butuh minumanku.
+
+136
+00:07:19,147 --> 00:07:21,191
+Kau harus kembali bekerja karena,
+kau tahu,
+
+137
+00:07:21,275 --> 00:07:22,568
+mereka melacak mata kita.
+
+138
+00:07:22,651 --> 00:07:24,903
+Tentu. Ya. Itu ide bagus.
+
+139
+00:07:25,571 --> 00:07:28,907
+Ya, makan itu, Keparat cilik.
+
+140
+00:07:29,533 --> 00:07:31,702
+Ini pekerjaan terbaik
+yang pernah kudapat.
+
+141
+00:07:32,744 --> 00:07:33,745
+Ya.
+
+142
+00:07:40,252 --> 00:07:43,881
+Brad, aku butuh bantuanmu. Aku ingin
+membocorkan sekop kepada Polygon.
+
+143
+00:07:43,964 --> 00:07:46,008
+Dan saat para kritikus menyukainya,
+itu pasti,
+
+144
+00:07:46,091 --> 00:07:48,760
+mereka akan menulisnya
+dan Ian tak bisa mengubahnya.
+
+145
+00:07:49,553 --> 00:07:51,305
+Amat licik. Aku terkesan
+
+146
+00:07:51,388 --> 00:07:54,099
+Yah, kau tahu, aku selalu berpikir
+tiga langkah ke depan.
+
+147
+00:07:54,183 --> 00:07:56,185
+Tiga langkah ke depan?
+Langkah yang banyak.
+
+148
+00:07:56,268 --> 00:07:58,187
+- Ya, kuberi kau satu...
+- Jangan mendekat.
+
+149
+00:07:58,270 --> 00:08:01,273
+Maaf. Aku mau sesuaikan
+umpan balik getarnya jadi saat memukul...
+
+150
+00:08:01,356 --> 00:08:04,484
+Aku tak peduli dengan itu.
+Baiklah, aku ikut rencanamu.
+
+151
+00:08:04,943 --> 00:08:08,614
+Tetapi jika kau mau orang suka sekopmu,
+lupakan para kritikus.
+
+152
+00:08:09,239 --> 00:08:11,158
+Hanya ada satu orang yang perlu kau rayu.
+
+153
+00:08:13,285 --> 00:08:14,286
+Ya.
+
+154
+00:08:14,369 --> 00:08:15,370
+Jangan...
+
+155
+00:08:17,998 --> 00:08:19,833
+- Pootie Shoe?
+- Pootie Shoe.
+
+156
+00:08:19,917 --> 00:08:22,377
+- Pootie, Pootie, Pootie... Shoe.
+- Shoe.
+
+157
+00:08:23,629 --> 00:08:24,630
+MODE MONSTER AKTIF
+
+158
+00:08:24,713 --> 00:08:26,298
+Hei, Semua! Ini Pootie Shoe.
+
+159
+00:08:26,381 --> 00:08:29,885
+Aku mau ucapkan salam untuk semua
+Pootie-cuties dan Pootie-dudies,
+
+160
+00:08:29,968 --> 00:08:32,596
+dan tentu saja untuk semua
+Pootie-fruities LGBTQ.
+
+161
+00:08:32,679 --> 00:08:35,765
+- Aku benci Pootie Shoe.
+- Ya, dia sampah.
+
+162
+00:08:36,558 --> 00:08:38,558
+Tetapi sampah
+berpengikut sepuluh juta lebih,
+
+163
+00:08:38,644 --> 00:08:40,645
+jadi, jika dia suka sekopmu,
+kau sukses.
+
+164
+00:08:41,230 --> 00:08:44,149
+Ya, tetapi dia bocah 14 tahun.
+
+165
+00:08:44,232 --> 00:08:46,527
+Apa dia akan paham ini bernuansa subtil?
+
+166
+00:08:46,610 --> 00:08:48,946
+Umur 14 masa kini
+lebih canggih dari yang kau duga.
+
+167
+00:08:49,029 --> 00:08:51,323
+- Sekopmu hebat, bukan?
+- Ya, tentu.
+
+168
+00:08:51,406 --> 00:08:53,784
+- Berarti Pootie-lah orangnya.
+- Bisa selesaikan?
+
+169
+00:08:53,867 --> 00:08:55,744
+Bu, apa-apaan? Aku sedang siaran.
+
+170
+00:08:55,827 --> 00:08:58,080
+Baiklah, apa tak bisa kau pause atau...
+
+171
+00:08:58,163 --> 00:09:02,084
+Aku tak bisa pause. Aku sedang siaran
+di depan sepuluh juta orang.
+
+172
+00:09:02,167 --> 00:09:03,627
+- Baiklah.
+- Keluar. Pergi!
+
+173
+00:09:03,710 --> 00:09:04,753
+- Bocah.
+- Keluar!
+
+174
+00:09:04,837 --> 00:09:07,506
+Kau ingin tampak penting di depan
+semua temanmu. Aku paham.
+
+175
+00:09:07,589 --> 00:09:11,218
+Hai, maaf soal itu. Itu tidak keren.
+
+176
+00:09:11,301 --> 00:09:14,179
+Ibuku kadang membuat stres,
+
+177
+00:09:14,263 --> 00:09:18,976
+tetapi dia pegawai yang baik,
+dan juga ibu yang baik.
+
+178
+00:09:24,481 --> 00:09:28,986
+Gali, gali, gali. Apa kau paham maksudku?
+
+179
+00:09:29,069 --> 00:09:33,407
+Sekop ini agak membosankan.
+
+180
+00:09:35,784 --> 00:09:37,327
+Menurutmu bagaimana dengan...
+
+181
+00:09:39,288 --> 00:09:41,123
+Ini kurang pas, bukan, David?
+
+182
+00:09:41,206 --> 00:09:44,585
+Kurasa aku ingin mencoba
+gerakan menusuk juga.
+
+183
+00:09:44,668 --> 00:09:46,628
+Ya. Ya, itu bagus.
+
+184
+00:09:46,712 --> 00:09:48,672
+Aku suka semua ini.
+
+185
+00:09:48,755 --> 00:09:50,465
+Kau utak-atik semuanya.
+
+186
+00:09:51,091 --> 00:09:53,051
+Satu hal. Aku mencemaskan waktunya.
+
+187
+00:09:53,135 --> 00:09:54,469
+David, ini gerakan tercepatku.
+
+188
+00:09:54,553 --> 00:09:56,847
+Bukan salahku
+semangkanya tak hancur seperti kepala.
+
+189
+00:09:56,930 --> 00:09:58,557
+Aku bisa dapatkan kepala sungguhan.
+
+190
+00:09:59,558 --> 00:10:00,684
+Bukan manusia.
+
+191
+00:10:02,186 --> 00:10:04,438
+- Itu komitmen.
+- Jo, tolong jangan kompori dia.
+
+192
+00:10:04,521 --> 00:10:07,524
+Manusia atau bukan. Kenapa kau di sana?
+
+193
+00:10:07,608 --> 00:10:10,277
+- Aku membantu Ian.
+- Kau asistenku. Bantulah aku.
+
+194
+00:10:10,360 --> 00:10:12,070
+- David, ada apa?
+- Konyol sekali.
+
+195
+00:10:12,154 --> 00:10:13,238
+Apa yang terjadi?
+
+196
+00:10:13,322 --> 00:10:15,991
+Asistenku merendahkan aku
+di depan seluruh tim,
+
+197
+00:10:16,074 --> 00:10:18,285
+- itu yang terjadi.
+- Bukan, maksudku... Begini.
+
+198
+00:10:19,203 --> 00:10:20,454
+- Ian.
+- Hei, Poppy!
+
+199
+00:10:20,537 --> 00:10:21,872
+- Kau sedang apa?
+- Berita bagus.
+
+200
+00:10:21,955 --> 00:10:25,417
+Aku mengubah sekop ini jadi senjata,
+jadi kini berfungsi ganda.
+
+201
+00:10:25,501 --> 00:10:27,920
+Ini benda yang akan orang beli.
+Lihat ini.
+
+202
+00:10:30,047 --> 00:10:32,174
+Ini belum pas, tetapi hampir.
+
+203
+00:10:32,257 --> 00:10:35,219
+Aku hanya tak yakin jika ini...
+jika ini harus...
+
+204
+00:10:35,302 --> 00:10:36,720
+Mungkin gerakan uppercut?
+
+205
+00:10:36,803 --> 00:10:40,766
+Tidak, aku tak mau sekopnya
+untuk membunuh. Aku mau untuk menggali.
+
+206
+00:10:40,849 --> 00:10:43,810
+"Menggali"? Apa kau tahu berapa TTP
+untuk benda seperti ini?
+
+207
+00:10:43,894 --> 00:10:47,105
+- Ya, itu sekitar...
+- "TTP" adalah "Waktu Sampai Penis".
+
+208
+00:10:47,189 --> 00:10:51,568
+Waktu yang dibutuhkan pemain dalam memakai
+benda baru untuk membuat penis.
+
+209
+00:10:51,985 --> 00:10:53,237
+Ya, aku tahu apa itu TTP.
+
+210
+00:10:53,320 --> 00:10:54,613
+Ya, David, jangan remehkan dia.
+
+211
+00:10:54,696 --> 00:10:56,865
+Mereka tak akan membuat penis, Ian.
+
+212
+00:10:56,949 --> 00:10:58,909
+Beri sekop kepada publik,
+mereka gali penis.
+
+213
+00:10:58,992 --> 00:11:00,661
+Kau beri pena, mereka gambar penis.
+
+214
+00:11:00,744 --> 00:11:02,162
+Kau berikan lempung...
+
+215
+00:11:02,246 --> 00:11:03,872
+Pasti akan membentuk penis.
+
+216
+00:11:04,373 --> 00:11:07,417
+Ian, bisa perintahkan asistenku
+untuk kembali ke ruangan.
+
+217
+00:11:07,501 --> 00:11:10,504
+Aku tak memerintah wanita.
+Kuberi mereka kebebasan memilih.
+
+218
+00:11:10,587 --> 00:11:12,089
+- Terima kasih.
+- Ya, tentu saja.
+
+219
+00:11:12,172 --> 00:11:13,966
+Ian, mereka tak akan membuat penis.
+
+220
+00:11:14,049 --> 00:11:16,051
+Aku akan pasangkan pembatas
+agar tidak bisa.
+
+221
+00:11:16,134 --> 00:11:17,928
+Sekop dengan peraturan. Keren sekali.
+
+222
+00:11:18,011 --> 00:11:21,223
+Ya, mari buat peraturan sebanyak mungkin.
+Itu sungguh asyik.
+
+223
+00:11:21,306 --> 00:11:23,517
+Bisakah minta dia
+agar tak dijadikan senjata?
+
+224
+00:11:23,600 --> 00:11:25,853
+- David.
+- Aku tak bisa minta apa pun.
+
+225
+00:11:25,936 --> 00:11:27,145
+Poppy.
+
+226
+00:11:29,857 --> 00:11:30,941
+Kenapa kita di sini?
+
+227
+00:11:31,024 --> 00:11:32,401
+Astaga, dia akan berpidato.
+
+228
+00:11:32,484 --> 00:11:35,988
+Kau tak hanya
+menghalangi peluang kami bermain.
+
+229
+00:11:36,071 --> 00:11:40,367
+Kau juga menghalangi
+bocah delapan tahun itu. Dan menurutku...
+
+230
+00:11:40,450 --> 00:11:43,078
+Dia buat aku jadi gnome, ya?
+Jadikan aku kesatria lagi.
+
+231
+00:11:43,161 --> 00:11:44,580
+- David, jangan.
+- David, kembalikan.
+
+232
+00:11:44,663 --> 00:11:46,707
+- David, jangan.
+- David, kembalikan.
+
+233
+00:11:46,790 --> 00:11:47,791
+- Tidak.
+- David.
+
+234
+00:11:47,875 --> 00:11:48,959
+- David.
+- Kembalikan aku.
+
+235
+00:11:49,042 --> 00:11:51,628
+- David. David! Jangan.
+- Tolong kembalikan, David.
+
+236
+00:11:51,712 --> 00:11:53,755
+Terasa di tengah
+perceraian orang tuaku lagi.
+
+237
+00:11:53,839 --> 00:11:54,840
+Dan dipaksa berpihak.
+
+238
+00:11:54,923 --> 00:11:58,051
+Aku tahu kau mau bilang. Memang tugasku
+untuk berpihak. Aku bosnya.
+
+239
+00:11:58,135 --> 00:12:01,972
+Tetapi para orang kreatif itu,
+mereka membuatku merasa aku bukan bosnya.
+
+240
+00:12:02,055 --> 00:12:04,600
+Mungkin karena kata ibuku
+aku tak kreatif atau berbakat,
+
+241
+00:12:04,683 --> 00:12:06,727
+dan ayahku terlalu mabuk
+untuk membantahnya.
+
+242
+00:12:06,810 --> 00:12:10,272
+Astaga, aku tak tahu harus apa.
+
+243
+00:12:10,355 --> 00:12:12,524
+Bisakah kau beri tahu aku harus apa,
+Carol?
+
+244
+00:12:12,983 --> 00:12:15,819
+Aku tak tahu, David,
+karena aku bukan terapis.
+
+245
+00:12:16,236 --> 00:12:18,405
+Ini adalah Personalia.
+
+246
+00:12:18,947 --> 00:12:20,782
+Benar.
+
+247
+00:12:22,159 --> 00:12:23,702
+Tetapi mungkin kau bisa membantuku?
+
+248
+00:12:26,330 --> 00:12:29,875
+Baiklah. Apa gaya manajemenmu?
+
+249
+00:12:29,958 --> 00:12:36,089
+Menurutku seperti dirigen sebuah orkes.
+
+250
+00:12:36,173 --> 00:12:39,801
+Aku tak bisa memainkan instrumen
+dan tak paham musik,
+
+251
+00:12:39,885 --> 00:12:43,305
+tetapi saat kuayunkan tangan,
+
+252
+00:12:43,388 --> 00:12:47,309
+semuanya berjalan lancar.
+
+253
+00:12:47,392 --> 00:12:49,520
+Oke, dirigen tak bekerja seperti itu.
+
+254
+00:12:49,603 --> 00:12:52,105
+- Bukan begitu?
+- Tugasnya lebih rumit dari itu.
+
+255
+00:12:52,189 --> 00:12:53,815
+Entah. Aku tak pernah tonton orkes.
+
+256
+00:12:53,899 --> 00:12:57,945
+Ibuku bilang itu akan membuatku lembek,
+lalu ayahku setuju.
+
+257
+00:12:58,028 --> 00:13:00,656
+Sebenarnya, itu satu-satunya
+yang mereka selalu sepakat.
+
+258
+00:13:00,739 --> 00:13:03,367
+Astaga. Kita harus bicarakan itu.
+
+259
+00:13:03,450 --> 00:13:05,452
+Bahkan membicarakannya membuatku agak...
+
+260
+00:13:09,790 --> 00:13:11,416
+- Ibuku...
+- David!
+
+261
+00:13:12,543 --> 00:13:14,461
+Kurasa waktu kita habis.
+
+262
+00:13:26,181 --> 00:13:27,933
+Hei, Semuanya, ini Pootie Shoe.
+
+263
+00:13:28,016 --> 00:13:31,728
+Kalian tahu aku tak suka membenci,
+tetapi aku benci sekop ini.
+
+264
+00:13:32,145 --> 00:13:33,438
+Itu sengaja.
+
+265
+00:13:34,022 --> 00:13:36,984
+Aku mau membuat penis,
+tetapi tak diizinkan, itu payah.
+
+266
+00:13:37,067 --> 00:13:40,737
+Kalian tahu pandanganku jika seniku
+disensor. Tagar bebaskan Pootie.
+
+267
+00:13:40,821 --> 00:13:44,366
+Yang benar saja, penis?
+Kalian cuma terpikir untuk itu?
+
+268
+00:13:44,992 --> 00:13:47,619
+Jika mau menggali lubang seharian,
+kupecat tukang kebunku.
+
+269
+00:13:49,162 --> 00:13:51,373
+Semoga lainnya di Raven's Banquet
+lebih baik.
+
+270
+00:13:51,456 --> 00:13:54,751
+Ini mekanika pembangunan dunia yang baru,
+dasar sampah.
+
+271
+00:13:55,169 --> 00:13:57,296
+- Poppy. Pop-Tarts.
+- Apa-apaan, Brad?
+
+272
+00:13:57,379 --> 00:13:58,714
+Pootie benci sekopnya.
+
+273
+00:13:58,797 --> 00:14:01,341
+Ya, sudah lihat. Jangan cemas,
+kita bisa pikat dia lagi.
+
+274
+00:14:01,425 --> 00:14:03,343
+Biar kujelaskan. Bayangkan.
+
+275
+00:14:04,178 --> 00:14:06,013
+Sang pahlawan harus hancurkan musuhnya,
+
+276
+00:14:06,096 --> 00:14:09,266
+tetapi senjata dari para Dewa lama
+tidak cukup.
+
+277
+00:14:09,349 --> 00:14:12,269
+Jadi dia harus berdoa di altar...
+
+278
+00:14:12,352 --> 00:14:14,021
+Ya Tuhan, lewati ceritanya.
+
+279
+00:14:14,104 --> 00:14:16,773
+Cerita adalah segalanya,
+dasar Neanderthal.
+
+280
+00:14:16,857 --> 00:14:18,734
+Biar kulanjutkan.
+
+281
+00:14:18,817 --> 00:14:22,779
+Sang Pahlawan berdoa
+di Altar Ares untuk mengirim untuknya...
+
+282
+00:14:26,533 --> 00:14:28,952
+"Sekop Ian". Senjata baru terhebat di gim.
+
+283
+00:14:29,369 --> 00:14:32,581
+Sang nymph hutan adalah peti harta
+yang akan menarik mereka untuk beli.
+
+284
+00:14:32,956 --> 00:14:36,293
+Apa yang terjadi jika sekop diserahkan?
+
+285
+00:14:37,878 --> 00:14:41,173
+Sekop ini harus lepas
+dari dada gadis cantik ini.
+
+286
+00:14:42,007 --> 00:14:44,968
+Lalu apa yang akan dilihat sang Pahlawan?
+
+287
+00:14:46,220 --> 00:14:48,388
+Aku benar-benar bingung.
+
+288
+00:14:49,556 --> 00:14:51,225
+- Dada.
+- Tidak. Yang itu jelas.
+
+289
+00:14:51,308 --> 00:14:54,186
+Aku tak paham apa yang kalian mau dariku
+dengan ini.
+
+290
+00:14:54,269 --> 00:14:56,271
+Bisakah kau bantu kami mutakhirkan ini?
+
+291
+00:14:56,355 --> 00:14:59,233
+Tidak. Karena aku tak mau jual Sekop Ian.
+
+292
+00:14:59,316 --> 00:15:00,734
+Aku ingin jual sekopku.
+
+293
+00:15:00,817 --> 00:15:03,695
+Tetapi sekopmu payah. Kukira begitu.
+Aku tak tahu bedanya.
+
+294
+00:15:03,779 --> 00:15:05,239
+Tetapi Ian tak suka,
+
+295
+00:15:05,322 --> 00:15:07,449
+dan dia tampak paham
+tukang main seperti apa.
+
+296
+00:15:08,325 --> 00:15:10,953
+- Kau tahu Pootie tak akan suka.
+- Ya, tentu aku tahu.
+
+297
+00:15:11,036 --> 00:15:13,247
+Tetapi kau juga tahu.
+Kau tiga langkah di depan.
+
+298
+00:15:13,330 --> 00:15:18,126
+Dan kau lakukan itu hanya agar
+aku mengodekan peti harta seksimu.
+
+299
+00:15:18,877 --> 00:15:20,838
+Ya. Apa kau masih berusaha memecahkan ini?
+
+300
+00:15:20,921 --> 00:15:24,383
+Brad, kau sungguh berengsek.
+
+301
+00:15:24,883 --> 00:15:26,468
+Sekarang kau sudah paham.
+
+302
+00:15:28,595 --> 00:15:30,764
+- Kupikir semua orang tahu.
+- Ya. Aku juga.
+
+303
+00:16:02,129 --> 00:16:03,338
+Hei, boleh minta kopi?
+
+304
+00:16:03,922 --> 00:16:05,257
+Aku datang, Ian!
+
+305
+00:16:07,759 --> 00:16:09,595
+Aku memikirkanmu setiap saat.
+
+306
+00:16:10,554 --> 00:16:13,682
+Hal bodoh seperti kadang
+kau mengunyah kepangmu.
+
+307
+00:16:13,765 --> 00:16:16,768
+Lalu aku melihat itu dan kau malu dan...
+
+308
+00:16:16,852 --> 00:16:19,479
+Tetapi itu hal termanis
+yang pernah kulihat.
+
+309
+00:16:19,563 --> 00:16:22,900
+Dan aku tahu ini sungguh gila...
+
+310
+00:16:23,901 --> 00:16:25,861
+tetapi menurutku
+kau juga merasakan sesuatu.
+
+311
+00:16:27,404 --> 00:16:30,115
+Jadi, ini aku bertanya kepadamu...
+
+312
+00:16:31,366 --> 00:16:32,618
+jika perasaanmu juga sama.
+
+313
+00:16:34,995 --> 00:16:36,788
+Entahlah. Menurutmu itu akan berhasil?
+
+314
+00:16:36,872 --> 00:16:40,250
+- Aku tak tahu.
+- Ini keahlianmu, bukan?
+
+315
+00:16:40,334 --> 00:16:43,295
+Kau Personalia. Harus membantu
+masalah pribadi di tempat kerja.
+
+316
+00:16:43,378 --> 00:16:45,422
+Astaga, kau bekerja dengan orang ini?
+
+317
+00:16:45,506 --> 00:16:48,008
+Ya, Dana. Dia di Pengujian bersamaku.
+Berambut panjang.
+
+318
+00:16:48,091 --> 00:16:51,053
+Tidak. Aku tak mau tahu.
+Harusnya aku tak tahu.
+
+319
+00:16:51,136 --> 00:16:53,096
+Kenapa? Apa kau mau melaporkanku?
+
+320
+00:16:53,180 --> 00:16:55,432
+Jika aku melaporkanmu,
+itu kepada diriku.
+
+321
+00:16:55,891 --> 00:16:58,602
+Aku mulai berpikir di kantor ini
+tak ada yang paham tugasku.
+
+322
+00:16:58,685 --> 00:17:01,063
+Carol. Apa kau sedang terapi.
+
+323
+00:17:01,146 --> 00:17:02,272
+- Sebenarnya tidak.
+- Maaf.
+
+324
+00:17:02,356 --> 00:17:04,316
+Aku hanya merasa agak depresi.
+
+325
+00:17:04,397 --> 00:17:06,026
+Tak apa. Aku akan kembali nanti.
+
+326
+00:17:06,108 --> 00:17:07,694
+Tidak. Jangan kembali.
+
+327
+00:17:09,404 --> 00:17:10,405
+Bukan dia.
+
+328
+00:17:12,156 --> 00:17:15,867
+Baiklah. Terima kasih sudah datang.
+
+329
+00:17:15,953 --> 00:17:17,746
+Aku mengadakan rapat darurat
+
+330
+00:17:17,829 --> 00:17:20,790
+karena aku melihat banyaknya
+penyalahgunaan di kantor ini.
+
+331
+00:17:20,874 --> 00:17:23,166
+Oh, tidak. Apa ada yang dilecehkan?
+
+332
+00:17:23,252 --> 00:17:24,837
+Ya, David. Aku.
+
+333
+00:17:25,546 --> 00:17:29,216
+Kalian semua menyalahgunakan
+kantor Personalia.
+
+334
+00:17:29,299 --> 00:17:32,761
+Carol, apa ini harus dilakukan sekarang?
+Kami sedang dalam krisis sekop.
+
+335
+00:17:32,845 --> 00:17:35,222
+Sebenarnya, Carol,
+kurasa aku punya solusi untuk Ian.
+
+336
+00:17:35,305 --> 00:17:38,892
+Kita ambil sekopmu dan tempatkan
+di peti harta seksi baru.
+
+337
+00:17:38,976 --> 00:17:40,018
+Poppy sudah setuju.
+
+338
+00:17:40,102 --> 00:17:42,104
+Tidak. Carol, aku tak mau
+mengode pelacurnya.
+
+339
+00:17:42,187 --> 00:17:44,439
+- Kuadakan rapat ini...
+- Carol, dia bukan pelacur.
+
+340
+00:17:44,523 --> 00:17:48,569
+Dia nymph hutan muda yang matang
+dengan cerita latar kompleks.
+
+341
+00:17:48,652 --> 00:17:50,279
+- C.W.?
+- Izinkan aku...
+
+342
+00:17:50,362 --> 00:17:51,572
+Kau tak diizinkan.
+
+343
+00:17:51,655 --> 00:17:53,615
+- Carol, aku minta maaf.
+- Tentu.
+
+344
+00:17:53,699 --> 00:17:55,534
+Mereka suka semaunya. Harus dikendalikan.
+
+345
+00:17:55,617 --> 00:17:56,910
+- Aku punya ide.
+- Maaf.
+
+346
+00:17:56,994 --> 00:17:58,370
+Carol, kenapa penguji hadir?
+
+347
+00:17:58,453 --> 00:18:00,664
+Karena kami juga punya ide.
+Ide hebat, malah.
+
+348
+00:18:00,747 --> 00:18:02,249
+Dana yang punya ide-ide bagus.
+
+349
+00:18:02,332 --> 00:18:03,750
+Tidak, aku tak punya.
+
+350
+00:18:03,834 --> 00:18:06,753
+Bagus. Karyawan baru punya ide
+
+351
+00:18:06,837 --> 00:18:08,881
+untuk memajukan perusahaan miliaran dolar.
+
+352
+00:18:08,964 --> 00:18:10,507
+Jo, pastikan kau catat ini semua.
+
+353
+00:18:10,591 --> 00:18:12,467
+- Katakan saja.
+- Lihat? Dia mau dengar.
+
+354
+00:18:12,551 --> 00:18:15,554
+- Aku tak mau...
+- "Penguji bertindak kelewatan."
+
+355
+00:18:15,637 --> 00:18:16,638
+Aku punya ide.
+
+356
+00:18:16,722 --> 00:18:18,974
+Si pelacur itu agak aneh. Menurutku.
+
+357
+00:18:19,057 --> 00:18:20,642
+Omong kosong.
+
+358
+00:18:20,726 --> 00:18:24,229
+Aku tak mau duduk dan mencatat omongan
+pesolek heboh ini.
+
+359
+00:18:24,313 --> 00:18:26,106
+- Aku kepala penulis.
+- Kau 80 tahun.
+
+360
+00:18:26,190 --> 00:18:29,318
+Hei. Beri hormat, Penguji.
+Dia menang Nebula Award.
+
+361
+00:18:29,401 --> 00:18:30,694
+Itu di tahun 1973.
+
+362
+00:18:30,777 --> 00:18:33,405
+Kau bertemu dia di karnaval
+saat dia menjual ayam panggang.
+
+363
+00:18:33,488 --> 00:18:35,449
+- Juga menang penghargaan.
+- Kehebatannya ganda.
+
+364
+00:18:35,532 --> 00:18:39,494
+- Semuanya, jika bisa sebentar saja...
+- Maaf. Dia tidur di kantor.
+
+365
+00:18:39,578 --> 00:18:41,121
+Hanya jika kebanyakan minum.
+
+366
+00:18:41,205 --> 00:18:42,831
+Itu tiap hari.
+Aku yakin dia tinggal di sini.
+
+367
+00:18:42,915 --> 00:18:43,999
+Itu tidak benar, bukan?
+
+368
+00:18:44,583 --> 00:18:49,755
+Carol, untuk memahami diriku sekarang,
+kau harus paham diriku yang dulu.
+
+369
+00:18:50,839 --> 00:18:52,090
+Albania, 1939...
+
+370
+00:18:52,174 --> 00:18:53,926
+Tidak! Jangan ada lagi cerita latar.
+
+371
+00:18:57,012 --> 00:19:00,140
+Maaf, aku sedang agak gelisah.
+
+372
+00:19:00,599 --> 00:19:01,600
+Kita harus kunci kode,
+
+373
+00:19:01,683 --> 00:19:04,978
+dan biarkan QA memverifikasi final
+dan rilis sekopnya apa adanya.
+
+374
+00:19:05,062 --> 00:19:08,857
+David, sekopnya belum siap seperti ini.
+Aku cuma perlu sedikit waktu lagi...
+
+375
+00:19:08,941 --> 00:19:10,984
+Ekspansi akan rilis hari Senin.
+
+376
+00:19:11,068 --> 00:19:14,112
+Sekarang Jumat pukul 17.00.
+Dia akan memintamu mengundur.
+
+377
+00:19:14,196 --> 00:19:17,658
+Tidak. Dia sudah berjanji
+tak akan mengundur ekspansi.
+
+378
+00:19:17,741 --> 00:19:20,118
+David, aku akan minta
+untuk mengundur ekspansi.
+
+379
+00:19:20,202 --> 00:19:24,081
+Apa? Tidak. Tidak, katamu waktunya cukup.
+
+380
+00:19:24,164 --> 00:19:26,333
+Katamu bisa.
+Kau berjanji tak akan mengundur.
+
+381
+00:19:26,416 --> 00:19:28,252
+Waktu kurang. Kita tak bisa.
+Aku bohong.
+
+382
+00:19:29,002 --> 00:19:30,546
+- Kau main-main denganku.
+- Ya.
+
+383
+00:19:30,629 --> 00:19:32,047
+- Kau main-main.
+- Aku tak suka.
+
+384
+00:19:32,130 --> 00:19:33,590
+- Ini demi gim.
+- Sudah kuduga.
+
+385
+00:19:33,674 --> 00:19:37,135
+- Itu tak membuatku lebih senang.
+- Kau berengsek.
+
+386
+00:19:37,219 --> 00:19:38,512
+- Kau berengsek!
+- Astaga...
+
+387
+00:19:38,595 --> 00:19:40,889
+Jo, tolong. Terima kasih.
+Aku tak butuh bantuanmu.
+
+388
+00:19:40,973 --> 00:19:43,392
+David, Poppy memang berengsek.
+
+389
+00:19:43,475 --> 00:19:46,019
+Ekspansi belum siap. Ini perlu diundur.
+
+390
+00:19:46,103 --> 00:19:48,063
+- Sedikit, lalu beres.
+- Tak perlu diundur.
+
+391
+00:19:48,146 --> 00:19:50,274
+- Tidak. David, jangan undur.
+- Sedikit saja.
+
+392
+00:19:50,357 --> 00:19:52,568
+- Tidak sedikit pun, tidak sama sekali.
+- Sedikit.
+
+393
+00:19:52,651 --> 00:19:55,070
+- Jangan undur.
+- Undur.
+
+394
+00:19:55,153 --> 00:19:57,322
+- Undur ekspansinya.
+- Jangan undur.
+
+395
+00:20:07,666 --> 00:20:10,586
+David, jika kau tak membuat keputusan...
+
+396
+00:20:10,669 --> 00:20:13,213
+Baiklah, aku memilih Ibu! Poppy.
+
+397
+00:20:13,297 --> 00:20:15,340
+- Sial, maksudku "Aku memilih Poppy".
+- Ya!
+
+398
+00:20:15,424 --> 00:20:16,758
+Ian, aku tahu kau visionernya,
+
+399
+00:20:16,842 --> 00:20:20,846
+tetapi aku produser eksekutifnya,
+dan aku akan buat keputusan eksekutif.
+
+400
+00:20:21,388 --> 00:20:24,308
+Kodenya dikunci. Semuanya, pulang!
+
+401
+00:20:24,391 --> 00:20:27,644
+Ya sudah! Kau tahu?
+Kau mau rusak gimnya? Jangan percaya aku.
+
+402
+00:20:27,728 --> 00:20:28,937
+Aku tahu apa soal gimnya?
+
+403
+00:20:29,021 --> 00:20:31,356
+Aku tak tahu apa-apa soal gim.
+Aku hanya penciptanya.
+
+404
+00:20:31,773 --> 00:20:33,734
+"Ian mengucurkan kejantanan."
+
+405
+00:20:33,817 --> 00:20:36,069
+Keputusanmu benar, David.
+Tindakanmu bagus.
+
+406
+00:20:36,153 --> 00:20:37,529
+Terima kasih, Bu. Poppy.
+
+407
+00:20:40,240 --> 00:20:41,366
+Rapat selesai.
+
+408
+00:20:43,452 --> 00:20:46,455
+Kita berhasil.
+Kita mengunci Raven's Banquet.
+
+409
+00:20:47,456 --> 00:20:49,124
+Kita harus minum-minum.
+
+410
+00:20:51,877 --> 00:20:52,878
+Baiklah.
+
+411
+00:21:00,469 --> 00:21:03,639
+Tidak! Aku perlu darah lagi.
+
+412
+00:21:09,144 --> 00:21:10,979
+Tidak!
+
+413
+00:21:16,068 --> 00:21:17,986
+Sial. Sial!
+
+414
+00:21:19,446 --> 00:21:20,656
+Kau sedang apa?
+
+415
+00:21:25,244 --> 00:21:26,912
+- Aku bekerja.
+- Ya, aku tahu.
+
+416
+00:21:26,995 --> 00:21:28,830
+Ada peringatan sistem kontrol versi
+
+417
+00:21:28,914 --> 00:21:30,457
+bahwa ada yang membabat kodeku.
+
+418
+00:21:30,541 --> 00:21:32,459
+Bagus, terima kasih sudah datang, Pop!
+
+419
+00:21:32,543 --> 00:21:34,461
+Kenapa kau tak bisa biarkan aku punya ini?
+
+420
+00:21:34,545 --> 00:21:35,838
+Kuhargai bantuannya!
+
+421
+00:21:35,921 --> 00:21:37,172
+Itu saja yang kumau.
+
+422
+00:21:37,256 --> 00:21:40,717
+Aku cuma minta satu hal dari seluruh gim
+
+423
+00:21:40,801 --> 00:21:43,762
+yang bisa kutunjuk dan bilang,
+"Itu punyaku".
+
+424
+00:21:44,596 --> 00:21:46,598
+- Sungguh?
+- Itu saja.
+
+425
+00:21:46,682 --> 00:21:50,435
+Poppy, seluruh gim adalah milikmu.
+Kau yang membangunnya.
+
+426
+00:21:50,519 --> 00:21:51,687
+Aku membangun visimu.
+
+427
+00:21:53,647 --> 00:21:56,233
+Kau seperti pelukis yang brilian...
+
+428
+00:21:56,316 --> 00:21:57,317
+Ya.
+
+429
+00:21:57,860 --> 00:22:00,654
+Biar kuselesaikan...
+Kau adalah pelukis brilian...
+
+430
+00:22:00,737 --> 00:22:01,738
+Baiklah.
+
+431
+00:22:03,657 --> 00:22:05,158
+...dan aku adalah kuas favoritmu.
+
+432
+00:22:05,242 --> 00:22:10,122
+Aku hanya seperti alat yang kau gunakan
+untuk membuat mahakaryamu.
+
+433
+00:22:12,249 --> 00:22:15,335
+Aku suka metafora itu, tetapi kurang pas.
+Menurutku jika...
+
+434
+00:22:15,419 --> 00:22:17,462
+Apa kau sungguh mau utak-atik metaforaku?
+
+435
+00:22:17,546 --> 00:22:20,507
+- Apa lukisan di cerita itu?
+- Bisakah kau dengarkan ucapanku?
+
+436
+00:22:20,591 --> 00:22:23,468
+Apa kau tahu betapa itu membuat frustrasi?
+
+437
+00:22:23,886 --> 00:22:26,180
+Baiklah. Oke. Kau benar.
+
+438
+00:22:26,263 --> 00:22:28,098
+Poppy, kau benar. Dengar.
+
+439
+00:22:28,515 --> 00:22:32,769
+Di dalam... metafora yang tidak pas itu,
+
+440
+00:22:32,853 --> 00:22:36,732
+kau adalah si pelukis dan juga kuasnya.
+
+441
+00:22:37,774 --> 00:22:42,696
+Aku hanyalah orang yang di belakangmu
+dan menyuruhmu melukis apa.
+
+442
+00:22:43,697 --> 00:22:47,117
+Tetapi kaulah yang sungguh
+membuat ini terwujud.
+
+443
+00:22:47,618 --> 00:22:50,621
+Andai aku bisa lakukan itu,
+tetapi aku tak bisa. Aku butuh kau.
+
+444
+00:22:53,123 --> 00:22:55,751
+Dan itu membuatku frustrasi,
+tetapi tetap kulakukan
+
+445
+00:22:55,834 --> 00:22:59,671
+karena itu yang membuat gim lebih baik,
+dan itu yang terpenting.
+
+446
+00:23:08,680 --> 00:23:14,269
+Aku hanya tahu bahwa benda ini
+bisa menjadi benda terkeren di gim,
+
+447
+00:23:14,353 --> 00:23:15,687
+dan mereka akan suka.
+
+448
+00:23:15,771 --> 00:23:19,566
+Entah kenapa aku tahu, tetapi aku tahu.
+
+449
+00:23:23,695 --> 00:23:27,533
+Mulai dengan tambahkan kurva percepatan
+di depan agar ayunan lebih berat.
+
+450
+00:23:28,867 --> 00:23:31,328
+Masukkan gerakan besar
+dengan getaran kecil di akhir,
+
+451
+00:23:31,411 --> 00:23:33,872
+jadi kau bisa mendapat
+sensasi berkertak.
+
+452
+00:23:33,956 --> 00:23:37,501
+Dan tambahkan kecepatan awal
+dari partikel darah saat benturan.
+
+453
+00:23:40,420 --> 00:23:42,089
+Dan itu akan jadi lebih keren?
+
+454
+00:23:42,506 --> 00:23:44,633
+Ya, itu akan jadi lebih keren.
+
+455
+00:23:46,844 --> 00:23:48,387
+Dan mereka akan suka.
+
+456
+00:23:51,181 --> 00:23:52,975
+Entah bagaimana aku tahu itu.
+
+457
+00:23:58,564 --> 00:23:59,940
+- Aku hanya... tunggu.
+- Bagus.
+
+458
+00:24:00,023 --> 00:24:02,651
+- Mari langsung kerjakan.
+- Aku mau bilang "Aku tahu saja".
+
+459
+00:24:02,734 --> 00:24:04,570
+- Aku tahu kau mau bilang apa.
+- Itu harusnya keren.
+
+460
+00:24:04,653 --> 00:24:07,573
+- Kita kehabisan waktu.
+- Kau tak pernah beri aku sorotan.
+
+461
+00:24:11,076 --> 00:24:13,078
+Pootie, Pootie, Pootie... Shoe.
+
+462
+00:24:13,161 --> 00:24:14,621
+Ulasan.
+
+463
+00:24:17,332 --> 00:24:18,500
+Baiklah, Semuanya.
+
+464
+00:24:20,002 --> 00:24:23,505
+Seperti yang kalian tahu,
+Raven's Banquet rilis hari ini.
+
+465
+00:24:24,131 --> 00:24:28,343
+Percayalah, aku menghabiskan seharian
+berpiama memainkan itu.
+
+466
+00:24:28,427 --> 00:24:31,471
+Pertama, aku harus katakan...
+
+467
+00:24:34,933 --> 00:24:36,268
+terima kasih Rager Body Mist
+
+468
+00:24:36,351 --> 00:24:39,479
+telah membuat Pootie tetap wangi
+dan cicilan orang tuanya terbayar.
+
+469
+00:24:40,898 --> 00:24:42,983
+Rager. Cium aroma amarah.
+
+470
+00:24:43,483 --> 00:24:45,235
+Ayolah, dasar bocah sampah.
+
+471
+00:24:45,319 --> 00:24:46,612
+Tetapi aku mau jujur.
+
+472
+00:24:46,695 --> 00:24:49,573
+Kalian tahu aku amat cinta Mythic Quest.
+
+473
+00:24:49,656 --> 00:24:53,702
+Jadi pernyataan yang akan kusampaikan
+akan amat sangat penting.
+
+474
+00:24:57,956 --> 00:24:59,625
+Raven's Banquet...
+
+475
+00:25:01,668 --> 00:25:03,629
+adalah sebuah mahakarya.
+
+476
+00:25:03,712 --> 00:25:04,755
+Astaga!
+
+477
+00:25:06,048 --> 00:25:07,132
+Ya!
+
+478
+00:25:07,216 --> 00:25:09,009
+Hal yang paling kusuka...
+
+479
+00:25:10,344 --> 00:25:11,720
+adalah sekopnya.
+
+480
+00:25:14,348 --> 00:25:17,726
+Mereka selalu punya cara
+untuk mengejutkanku.
+
+481
+00:25:18,310 --> 00:25:21,396
+Menghancurkan kepala orang dengan ini
+sungguh luar biasa.
+
+482
+00:25:22,022 --> 00:25:23,607
+Hebat sekali.
+
+483
+00:25:24,274 --> 00:25:25,651
+Kini, mari kita resmikan.
+
+484
+00:25:25,734 --> 00:25:28,570
+Diam, diam! Dia akan memberi nilai.
+
+485
+00:25:32,658 --> 00:25:33,909
+Empat lubang-P.
+
+486
+00:25:34,993 --> 00:25:37,079
+Empat lubang-P!
+
+487
+00:25:37,162 --> 00:25:39,081
+Empat, empat, empat lubang-P.
+
+488
+00:25:39,414 --> 00:25:40,499
+Empat lubang-P!
+
+489
+00:25:41,083 --> 00:25:42,292
+Empat lubang-P!
+
+490
+00:25:42,376 --> 00:25:43,794
+Apa itu lubang pantat?
+
+491
+00:25:43,877 --> 00:25:46,129
+Ya. Jadi, sistem penilaiannya
+dengan lubang pantat.
+
+492
+00:25:46,463 --> 00:25:48,549
+Apa pun di atas dua termasuk luar biasa.
+
+493
+00:25:48,632 --> 00:25:50,133
+Pekerjaan ini sungguh aneh.
+
+494
+00:25:50,634 --> 00:25:52,886
+Ya. Bukankah ini yang terhebat?
+
+495
+00:25:55,305 --> 00:25:57,015
+Ya. Ini yang terhebat.
+
+496
+00:25:57,099 --> 00:25:58,559
+Aku akan main gim ini selamanya.
+
+497
+00:26:04,857 --> 00:26:09,278
+Maaf aku terlambat.
+Jalanan macet parah.
+
+498
+00:26:09,361 --> 00:26:11,363
+- Ada apa?
+- Kita dapat empat lubang pantat.
+
+499
+00:26:11,947 --> 00:26:13,407
+Astaga.
+
+500
+00:26:14,199 --> 00:26:17,411
+Aku pernah punya pacar di Guam.
+Dia punya tiga.
+
+501
+00:26:18,620 --> 00:26:20,038
+Tetapi empat...
+
+502
+00:26:21,832 --> 00:26:23,250
+itu impian.
+
+503
+00:26:24,668 --> 00:26:25,669
+Apa?
+
+504
+00:26:28,839 --> 00:26:30,841
+Hei, ekspansi sukses.
+
+505
+00:26:30,924 --> 00:26:32,593
+Reddit, Steam, Kotaku, semua positif,
+
+506
+00:26:32,676 --> 00:26:34,469
+dan kita jual ribuan sekop tiap jamnya.
+
+507
+00:26:34,553 --> 00:26:37,389
+Benda paling laku pada gim.
+Selamat untukmu.
+
+508
+00:26:37,472 --> 00:26:39,141
+Atau Ian. Siapa pun yang menang.
+
+509
+00:26:39,224 --> 00:26:40,851
+Aku tak ikuti lagi, dan tak peduli.
+
+510
+00:26:40,934 --> 00:26:42,769
+- Kami berdua menang.
+- Bagus.
+
+511
+00:26:42,853 --> 00:26:44,188
+Di mana dia?
+
+512
+00:26:44,271 --> 00:26:47,065
+Kalian berhasil lagi.
+
+513
+00:26:47,149 --> 00:26:52,070
+Kalian mewujudkan visiku
+menjadi kenyataan, dan aku amat bangga.
+
+514
+00:26:52,571 --> 00:26:56,617
+Tetapi tentu saja, ini tak mungkin terjadi
+tanpa inspirasiku.
+
+515
+00:26:57,367 --> 00:26:58,785
+Mitraku, sungguh.
+
+516
+00:26:58,869 --> 00:27:01,371
+Kalian mungkin melihatnya di kantor
+beberapa hari ini
+
+517
+00:27:01,455 --> 00:27:02,789
+tampak lelah,
+
+518
+00:27:02,873 --> 00:27:05,292
+tetapi harus kukatakan,
+aku tak pernah ragu dengannya.
+
+519
+00:27:07,169 --> 00:27:09,838
+Bahkan, aku ingin membawanya naik.
+Di mana dia?
+
+520
+00:27:09,922 --> 00:27:11,131
+Naiklah, Pop.
+
+521
+00:27:11,215 --> 00:27:12,549
+Dia membicarakan sekopnya.
+
+522
+00:27:12,633 --> 00:27:15,052
+Sekopnya! Itu dia, hei!
+
+523
+00:27:15,135 --> 00:27:16,553
+- Ya!
+- Keren!
+
+524
+00:27:18,138 --> 00:27:19,223
+Untuk sekop!
+
+525
+00:27:20,557 --> 00:27:21,975
+Untuk Mythic Quest!
+
+526
+00:27:22,434 --> 00:27:24,686
+Ian. Ian. Ian.
+
+527
+00:28:39,344 --> 00:28:41,346
+Terjemahan subtitle oleh
+Rio Wibowo
+
+
