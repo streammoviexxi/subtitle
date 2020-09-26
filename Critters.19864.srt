@@ -1,0 +1,3136 @@
+1
+00:01:08,829 --> 00:01:12,791
+<font color=#ffff00>ASTEROID PENJARA-SEKTOR 17
+.</font>
+
+2
+00:01:12,791 --> 00:01:15,656
+<font color=#ffff00>ASTEROID PENJARA-SEKTOR 17
+PENGAMANAN MAKSIMUM</font>
+
+3
+00:01:14,458 --> 00:01:18,123
+<i>Pengontrol Radar,
+di sini Pengangkut Tahanan 9961</i>
+
+4
+00:01:18,164 --> 00:01:19,994
+<i>meminta izin untuk mendarat.
+Ganti.</i>
+
+5
+00:01:20,033 --> 00:01:22,662
+<i>Kami sudah menunggu anda,
+PT 9961.</i>
+
+6
+00:01:22,816 --> 00:01:24,370
+<i>Mohon konfirmasi muatan.
+Ganti.</i>
+
+7
+00:01:24,406 --> 00:01:26,534
+<i>Tahanannya adalah para Crite ...
+ada delapan. Ganti.</i>
+
+8
+00:01:26,576 --> 00:01:29,602
+<i>Tampaknya ada masalah, PT 9961.</i>
+
+9
+00:01:29,644 --> 00:01:32,012
+<i>Pemberitahuan saya sebelumnya
+menyatakan, seharusnya ada</i>
+
+10
+00:01:32,049 --> 00:01:35,091
+<i>10 tahanan Crite di kapal anda.
+Tolong jelaskan. Ganti.</i>
+
+11
+00:01:35,238 --> 00:01:37,583
+<i>Sebelumnya kami memiliki 10,</i>
+
+12
+00:01:37,757 --> 00:01:39,923
+<i>tapi para Crite memakan
+segala sesuatu yang mereka lihat.</i>
+
+13
+00:01:39,959 --> 00:01:42,928
+<i>Kami harus membunuh dua dari mereka
+agar makanan tersedia lebih lama. Ganti.</i>
+
+14
+00:01:42,963 --> 00:01:45,194
+<i>Diterima, PT 9961.</i>
+
+15
+00:01:45,231 --> 00:01:47,758
+<i>Anda dipersilahkan mendarat
+di galangan kapal B.</i>
+
+16
+00:01:47,803 --> 00:01:50,566
+<i>Kirim tahanan Crite
+melalui detoksifikasi dan imunisasi.</i>
+
+17
+00:01:50,605 --> 00:01:53,086
+<i>Tempatkan mereka di ruang kunci terminasi,
+segera setelah anda mendarat.</i>
+
+18
+00:01:53,230 --> 00:01:55,609
+<i>Tim pengendali akan bersiap. Ganti.</i>
+
+19
+00:01:55,646 --> 00:01:57,273
+<i>Diterima, Pengontrol Radar.</i>
+
+20
+00:02:08,862 --> 00:02:10,728
+Di sini Warden Zanti.
+
+21
+00:02:10,764 --> 00:02:13,359
+Kirim Tim Pengendali
+ke ruang <i>kunci terminasi.</i>
+
+22
+00:02:13,401 --> 00:02:15,200
+<i>Para Crite pasti sedang
+merencanakan sesuatu.</i>
+
+23
+00:02:23,247 --> 00:02:25,240
+<i>Ada ledakan di ruang kunci terminasi.</i>
+
+24
+00:02:25,284 --> 00:02:26,563
+Laporkan kerusakan.
+
+25
+00:02:26,721 --> 00:02:28,177
+<i>Dua tewas
+dan tiga terluka, pak.</i>
+
+26
+00:02:28,221 --> 00:02:31,453
+- Yang melarikan diri?
+<i>- Para Crite. Kedelapan-nya.</i>
+
+27
+00:02:31,493 --> 00:02:33,051
+<i>Para Crite telah mencuri
+sebuah kapal!</i>
+
+28
+00:02:41,437 --> 00:02:42,404
+Sial.
+
+29
+00:02:44,142 --> 00:02:46,168
+Hubungi pemburu bayaran.
+
+30
+00:03:14,180 --> 00:03:17,276
+Aku punya pekerjaan untuk kalian.
+
+31
+00:03:23,692 --> 00:03:26,786
+Mereka sudah mencuri
+salah satu kapal tercepat kita,
+
+32
+00:03:26,830 --> 00:03:30,392
+dengan bahan bakar yang cukup untuk
+menyeberang galaksi lebih dari 10 kali.
+
+33
+00:03:30,434 --> 00:03:33,297
+Jadi, bahan bakar
+bukan masalah untuk mereka.
+
+34
+00:03:33,447 --> 00:03:37,002
+Bagaimanapun juga, kalian harus hentikan
+mereka sebelum mereka bisa makan.
+
+35
+00:03:37,042 --> 00:03:39,978
+Kalian akan menerima pembayaran penuh,
+dengan syarat seperti biasa...
+
+36
+00:03:40,012 --> 00:03:42,811
+hanya jika ada bukti
+kehancuran mereka.
+
+37
+00:05:20,376 --> 00:05:23,037
+Brad, April, sarapan!
+
+38
+00:05:26,785 --> 00:05:29,413
+Brad, aku harus masuk ke dalam situ!
+
+39
+00:05:31,423 --> 00:05:33,755
+<i>Ayolah, anak ingusan,
+Aku sedang buru-buru!</i>
+
+40
+00:05:36,230 --> 00:05:38,823
+<i>Bu</i>, Brad tidak membiarkanku
+masuk ke kamar mandi!
+
+41
+00:05:40,474 --> 00:05:43,062
+Halo?
+Ya, tunggu.
+
+42
+00:05:43,105 --> 00:05:45,054
+April, ada telepon!
+
+43
+00:05:45,413 --> 00:05:48,610
+Brad,
+kau benar-benar brengsek!
+
+44
+00:05:52,384 --> 00:05:54,443
+Bu, Brad memonopoli kamar mandi.
+
+45
+00:05:54,485 --> 00:05:55,647
+Dua menit.
+
+46
+00:05:56,528 --> 00:05:58,824
+Halo?
+
+47
+00:05:58,858 --> 00:06:00,953
+Oh, hai.
+
+48
+00:06:02,932 --> 00:06:04,957
+Jay, sarapan!
+
+49
+00:06:04,999 --> 00:06:08,493
+Helen, apa itu tadi
+Charlie yang menelepon?
+
+50
+00:06:09,284 --> 00:06:11,165
+<i>Bukan, itu Steve.</i>
+
+51
+00:06:11,208 --> 00:06:13,039
+Steve?
+
+52
+00:06:22,088 --> 00:06:23,853
+Benarkah?
+
+53
+00:06:24,388 --> 00:06:25,793
+Selamat ulang tahun!
+
+54
+00:06:27,697 --> 00:06:29,688
+<i>Benarkah?</i>
+
+55
+00:06:30,311 --> 00:06:31,894
+<i>Hadiah apa yang kau dapat?</i>
+
+56
+00:06:33,236 --> 00:06:34,534
+<i>- Tidak!</i>
+- Hei.
+
+57
+00:06:34,572 --> 00:06:36,038
+Steve siapa?
+
+58
+00:06:38,073 --> 00:06:39,543
+Anak baru di sekolah.
+
+59
+00:06:39,578 --> 00:06:41,842
+Apapun masalahnya...
+siapa tadi namanya?
+
+60
+00:06:41,881 --> 00:06:43,711
+<i>- Richard?</i>
+- Aku penebak yang buruk.
+
+61
+00:06:43,749 --> 00:06:45,650
+<i>Ya, Richard.</i>
+
+62
+00:06:45,686 --> 00:06:48,120
+Aku rasa dia cinta dalam hidupnya.
+
+63
+00:06:48,155 --> 00:06:49,953
+Bisakah kau ingat itu?
+
+64
+00:06:49,993 --> 00:06:52,790
+Kau harus terus memberiku informasi.
+Apa kau sudah mencuci baju bowlingku?
+
+65
+00:06:52,828 --> 00:06:55,059
+Ya, bajunya akan siap untuk turnamen.
+Sekarang, makanlah.
+
+66
+00:06:55,099 --> 00:06:57,261
+Brad, turunkan Chewie
+dari meja makan.
+
+67
+00:07:00,538 --> 00:07:02,131
+<i>Aku tidak sabar menunggu!</i>
+
+68
+00:07:02,173 --> 00:07:04,334
+Kau sudah bertemu
+Charlie pagi ini, Brad?
+
+69
+00:07:05,378 --> 00:07:07,847
+Dah.
+
+70
+00:07:10,551 --> 00:07:12,452
+Terima kasih.
+
+71
+00:07:12,487 --> 00:07:14,546
+Jadi,
+siapa orang bernama Steve ini?
+
+72
+00:07:14,589 --> 00:07:16,182
+Orang bodoh dari New York.
+
+73
+00:07:16,225 --> 00:07:18,354
+Diam.
+Kau seperti bayi saja.
+
+74
+00:07:19,132 --> 00:07:20,830
+Ada apa dengan Richard?
+
+75
+00:07:20,864 --> 00:07:23,300
+Semua yang Richard perdulikan
+hanyalah peternakan babi.
+
+76
+00:07:23,335 --> 00:07:25,964
+Memangnya kenapa?
+Ayahnya ayah juga berternak babi.
+
+77
+00:07:26,005 --> 00:07:28,199
+Ayah!
+
+78
+00:07:29,115 --> 00:07:30,300
+Brad, kenapa kau duduk
+di meja makan...
+
+79
+00:07:30,342 --> 00:07:32,403
+dengan termometer di mulutmu?
+
+80
+00:07:32,446 --> 00:07:34,471
+Aku merasa tidak enak badan.
+
+81
+00:07:34,515 --> 00:07:36,245
+Yang benar saja.
+
+82
+00:07:36,500 --> 00:07:40,187
+- Kau tampak baik-baik saja.
+- 106 derajat?
+
+83
+00:07:40,222 --> 00:07:42,966
+Brad, apa kau sudah beritahu ibu
+tentang tes geometrimu untuk hari ini?
+
+84
+00:07:43,097 --> 00:07:44,519
+Diam kau.
+Tutup saja mulutmu!
+
+85
+00:07:44,562 --> 00:07:46,119
+Kau ada tes hari ini, Brad?
+
+86
+00:07:46,163 --> 00:07:48,497
+- Kau benar-benar brengsek.
+- Bradley!
+
+87
+00:07:49,369 --> 00:07:51,979
+Nak, aku harus mencuci mulutmu.
+
+88
+00:07:52,351 --> 00:07:55,441
+Mungkin kau akan melakukannya lagi, sama
+seperti yang kau lakukan pada tes terakhir.
+
+89
+00:07:56,777 --> 00:07:58,677
+Tes terakhir apa?
+
+90
+00:08:00,649 --> 00:08:01,638
+Dah.
+Mmmmm.
+
+91
+00:08:02,405 --> 00:08:03,124
+Brad!
+
+92
+00:08:03,887 --> 00:08:06,286
+<i>Ayo, April,
+kita sudah terlambat!</i>
+
+93
+00:08:06,323 --> 00:08:07,915
+Bersiap-siaplah untuk
+pergi ke sekolah, nak.
+
+94
+00:08:07,958 --> 00:08:08,925
+Ayolah ayah.
+
+95
+00:08:08,959 --> 00:08:10,826
+Kalau kau ketinggalan bis,
+maka ayah akan mengulitimu,
+
+96
+00:08:10,863 --> 00:08:12,489
+dan menggantung tulangmu
+sampai kering.
+
+97
+00:08:15,569 --> 00:08:19,005
+"Terima kasih untuk sarapannya
+yang lezat, ibu. "
+
+98
+00:08:19,179 --> 00:08:22,100
+Aku penasaran,
+apa yang terjadi dengan Charlie?
+
+99
+00:08:30,086 --> 00:08:31,749
+Selamat pagi, Harv.
+
+100
+00:08:31,789 --> 00:08:34,782
+Selamat pagi, Sal.
+Ada berita apa?
+
+101
+00:08:34,825 --> 00:08:38,764
+Di sini dikatakan
+kalau John Travolta
+
+102
+00:08:38,798 --> 00:08:41,131
+dulunya adalah pelayan
+di Fort Myers, Florida.
+
+103
+00:08:41,168 --> 00:08:44,899
+Apa yang sedang terjadi di sini, Sal?
+
+104
+00:08:44,939 --> 00:08:47,967
+Turnamen besar bowling malam ini.
+
+105
+00:08:48,010 --> 00:08:51,310
+Dan Charlie, dia sedang tidur
+karena mabuk, di belakang.
+
+106
+00:08:51,348 --> 00:08:55,079
+Berbaik hatilah, Harv.
+Dia tidak bermaksud buruk.
+
+107
+00:09:03,429 --> 00:09:05,488
+Mereka akan datang!
+
+108
+00:09:18,816 --> 00:09:21,250
+Mereka akan datang, Harv.
+
+109
+00:09:23,556 --> 00:09:27,185
+Ya. Aku mulai merasakan mereka melalui
+perasaanku, sama seperti yang terakhir kali.
+
+110
+00:09:27,226 --> 00:09:29,059
+Hentikan omong kosong itu, Charlie.
+
+111
+00:09:29,096 --> 00:09:30,565
+Dengar.
+
+112
+00:09:30,599 --> 00:09:32,346
+Astaga.
+
+113
+00:09:34,469 --> 00:09:37,529
+Mereka makhluk yang sama
+yang merusak karirku.
+
+114
+00:09:37,573 --> 00:09:42,308
+Apa kau pernah mempertimbangkan
+untuk mengurangi minum whiskey, Charlie?
+
+115
+00:09:42,346 --> 00:09:44,144
+Ini bukan karena whiskey.
+
+116
+00:09:44,182 --> 00:09:47,016
+Sal.
+Sal, kau ingat, kan?
+
+117
+00:09:47,052 --> 00:09:50,420
+Dulu aku anggota klub, kan?
+Aku tidak minum alkohol, kan?
+
+118
+00:09:50,457 --> 00:09:53,437
+Tentu, Charlie, pasti.
+Kau pemain penting di Liga Utama.
+
+119
+00:09:53,886 --> 00:09:55,827
+Tepat.
+Saat itu aku mendapat tekanan.
+
+120
+00:09:57,400 --> 00:10:00,163
+Lalu aku mulai mendapatkan
+pesan-pesan seperti ini ...
+
+121
+00:10:00,926 --> 00:10:04,971
+<i>Di sini Patroli GXP 1198</i>
+
+122
+00:10:05,009 --> 00:10:07,605
+<i>memanggil Alpha Tango Delta.
+Masuklah.</i>
+
+123
+00:10:07,646 --> 00:10:09,306
+<i>- Ganti.</i>
+- Kau dengar itu?
+
+124
+00:10:09,715 --> 00:10:12,276
+Charlie, itu Jeff.
+
+125
+00:10:12,319 --> 00:10:14,412
+<i>Aku berada di Route 22.</i>
+Ayo, sayang, angkatlah.
+
+126
+00:10:18,059 --> 00:10:21,928
+- Hentikan omong kosong itu, Jeff.
+- Ooh, maaf, Harv.
+
+127
+00:10:21,965 --> 00:10:24,125
+- Aku tidak tahu kau masuk kantor.
+- Apa yang kau butuhkan?
+
+128
+00:10:24,166 --> 00:10:26,067
+Aku hanya mau melapor untuk
+mengakhiri tugas malam ini.
+
+129
+00:10:26,102 --> 00:10:27,492
+Akhiri saja kalau begitu.
+
+130
+00:10:32,393 --> 00:10:33,477
+Uh, Charlie...
+
+131
+00:10:33,512 --> 00:10:37,313
+kenapa kau tidak pergi saja
+ke tempat Jay dan Helen?
+
+132
+00:10:37,352 --> 00:10:40,290
+Kau pasti tidak mau dipecat sekarang.
+
+133
+00:10:40,727 --> 00:10:42,445
+Oh tidak.
+Tidak, aku menyukai pekerjaanku.
+
+134
+00:10:42,490 --> 00:10:46,656
+Kau lupakan saja imajinasi
+tentang planet Mars itu, oke?
+
+135
+00:10:46,695 --> 00:10:48,664
+Lupakan saja itu.
+
+136
+00:10:48,699 --> 00:10:50,998
+Ya, benar.
+
+137
+00:10:54,206 --> 00:10:56,936
+Kota ini seperti kebun binatang.
+
+138
+00:11:06,730 --> 00:11:09,322
+<i>Persiapan untuk transmisi hologram.</i>
+
+139
+00:11:09,358 --> 00:11:12,090
+<i>Aku tergesa-gesa menyusul kalian,</i>
+
+140
+00:11:12,130 --> 00:11:15,223
+<i>sebab ada beberapa hal yang
+lupa aku beritahukan pada kalian.</i>
+
+141
+00:11:15,266 --> 00:11:17,826
+<i>Kami menelusuri para Crite
+menuju ke sistem tata surya</i>
+
+142
+00:11:17,869 --> 00:11:20,862
+<i>di mana hanya ada satu planet yang
+mendukung kehidupannya ... yaitu Bumi</i>
+
+143
+00:11:20,907 --> 00:11:23,830
+<i>Database kapal kalian akan berisi
+informasi yang mencukupi</i>
+
+144
+00:11:23,987 --> 00:11:25,599
+<i>mengenai budaya di planet tersebut.</i>
+
+145
+00:11:25,697 --> 00:11:27,824
+<i>Kemampuan perubahan kalian</i>
+
+146
+00:11:27,970 --> 00:11:29,716
+<i>bisa berguna di sana.</i>
+
+147
+00:11:29,752 --> 00:11:34,320
+<i>Aku percaya, bagaimanapun juga,
+kali ini kau tidak akan banyak merusak,</i>
+
+148
+00:11:34,460 --> 00:11:36,416
+<i>mengingat kau hampir
+menghancurkan setengah ...</i>
+
+149
+00:11:48,810 --> 00:11:51,335
+<i>Bumi tempat di mana banyak
+perbedaan budaya.</i>
+
+150
+00:11:51,822 --> 00:11:54,329
+<i>Kemajuan teknologinya telah ...</i>
+
+151
+00:11:58,790 --> 00:12:00,347
+<i>Turunkan dia,
+turunkan dia!</i>
+
+152
+00:13:57,909 --> 00:13:59,639
+Oke.
+
+153
+00:13:59,679 --> 00:14:02,012
+Baiklah, aku siap
+untuk karburatornya, Charlie.
+
+154
+00:14:04,751 --> 00:14:06,242
+Charlie!
+
+155
+00:14:06,287 --> 00:14:07,811
+Berikan karburatornya!
+
+156
+00:14:07,855 --> 00:14:10,290
+<i>Sekarang jam 05:16 di KEAT.
+K-Eat di Kansas City.</i>
+
+157
+00:14:16,166 --> 00:14:20,103
+Baiklah, pada tahun 1948. Seorang ibu
+rumah tangga di Missouri, diculik ...
+
+158
+00:14:20,138 --> 00:14:23,166
+oleh enam pria kecil berkepala oranye
+dalam perjalanannya ke binatu.
+
+159
+00:14:24,944 --> 00:14:26,536
+Keren!
+Whoo!
+
+160
+00:14:26,579 --> 00:14:28,844
+Apa itu?
+
+161
+00:14:29,950 --> 00:14:32,681
+Apa kau lihat itu tadi?
+Itu yang terhebat yang pernah kita lakukan!
+
+162
+00:14:32,721 --> 00:14:34,848
+Ya, itu tadi...
+itu tadi benar-benar bagus.
+
+163
+00:14:34,889 --> 00:14:38,158
+Buatan sendiri.
+Yang terbaik di negara ini.
+
+164
+00:14:40,531 --> 00:14:42,762
+Charlie,
+kau mematahkan ketapelku.
+
+165
+00:14:42,800 --> 00:14:45,395
+Ini ... Aku bisa memperbaikinya.
+Aku bisa memperbaiki ini.
+
+166
+00:14:46,954 --> 00:14:48,679
+Kau ambil saja kaleng.
+
+167
+00:14:53,749 --> 00:14:55,806
+Ngomong-ngomong, seperti yang aku katakan,
+ibu rumah tangga ini ...
+
+168
+00:14:55,849 --> 00:14:56,908
+Ibu rumah tangga apa?
+
+169
+00:14:56,951 --> 00:14:59,820
+Ayah rasa ayah sudah bilang
+untuk membuang petasan itu?
+
+170
+00:14:59,856 --> 00:15:02,444
+- Kau suka bekerja di sini, Charlie?
+- Iya pak.
+
+171
+00:15:02,603 --> 00:15:03,923
+Dari tadi aku menunggu karburatornya.
+
+172
+00:15:03,959 --> 00:15:06,327
+Kau harus mencoba dan berkonsentrasi
+pada apa yang sedang kau kerjakan, oke?
+
+173
+00:15:06,363 --> 00:15:08,196
+- Akan saya lakukan.
+- Aku banyak pekerjaan hari ini,
+
+174
+00:15:08,233 --> 00:15:09,394
+jadi cobalah untuk ingat itu.
+
+175
+00:15:09,435 --> 00:15:12,199
+- Ayah, aku memintanya, apa dia bisa ...
+- Berikan itu ada ayah.
+
+176
+00:15:12,238 --> 00:15:13,967
+Ini bukan mainan.
+
+177
+00:15:14,007 --> 00:15:16,636
+Aku ingin mencoba menyalakan
+mobilnya sebelum hari gelap.
+
+178
+00:15:29,661 --> 00:15:31,003
+Sekarang apa lagi ini?
+
+179
+00:15:34,449 --> 00:15:35,865
+Maaf, Charlie.
+
+180
+00:15:37,404 --> 00:15:39,031
+Rasanya ketapel ini belum betul.
+
+181
+00:15:44,629 --> 00:15:47,466
+- Hai, ayah.
+- Hei, nak.
+
+182
+00:15:47,917 --> 00:15:50,978
+Ayah, ini Steve Elliot.
+Aku memintanya kemari untuk makan malam.
+
+183
+00:15:51,021 --> 00:15:53,390
+Aku harap tidak apa-apa.
+Ibu bilang tidak apa-apa.
+
+184
+00:15:53,426 --> 00:15:56,793
+- Senang bertemu anda, Tn. Brown.
+- Ini mainan kecil yang mahal.
+
+185
+00:15:56,829 --> 00:15:58,878
+Ayah Steve baru saja memberikannya,
+sebagai hadiah ulang tahunnya.
+
+186
+00:15:59,166 --> 00:16:00,498
+Ini hadiah yang terhebat, kan?
+
+187
+00:16:00,534 --> 00:16:03,025
+Sepertinya kau tidak akan bisa
+mengangkut banyak jerami di dalamnya.
+
+188
+00:16:03,070 --> 00:16:04,766
+Tidak ...
+
+189
+00:16:04,806 --> 00:16:06,673
+Biar aku ...
+biar aku mencobanya.
+
+190
+00:16:13,718 --> 00:16:15,949
+Hati-hati, Charlie.
+
+191
+00:16:23,930 --> 00:16:25,899
+Charlie.
+
+192
+00:16:25,934 --> 00:16:28,767
+Bradley Brown,
+aku akan membunuhmu.
+
+193
+00:16:33,175 --> 00:16:35,805
+Kembali kau kemari!
+
+194
+00:16:40,919 --> 00:16:43,150
+Brad, aku akan
+membunuhmu!
+
+195
+00:16:44,733 --> 00:16:46,084
+Kemari,
+dasar kau anak ingusan.
+
+196
+00:16:46,126 --> 00:16:48,148
+- April!
+- Dia menembakku dengan ketapel!
+
+197
+00:16:48,503 --> 00:16:50,292
+- Tidak!
+- Tukang Bohong!
+
+198
+00:16:50,332 --> 00:16:51,732
+- April!
+- Tukang Bohong!
+
+199
+00:16:51,767 --> 00:16:53,997
+Tahan, tahan!
+
+200
+00:16:54,999 --> 00:16:57,818
+Nak, apa kau menembak kakakmu
+dengan katapel itu?
+
+201
+00:16:58,251 --> 00:17:00,134
+Aku rasa aku akan teguh
+pada amandemen ke-lima.
+
+202
+00:17:00,178 --> 00:17:02,806
+Ini bukan urusan demokrasi.
+Apa kau melakukannya atau tidak?
+
+203
+00:17:09,556 --> 00:17:11,525
+Ya, aku rasa aku melakukannya.
+
+204
+00:17:11,559 --> 00:17:13,687
+Kau yang lebih tahu
+kejadiannya, nak.
+
+205
+00:17:14,275 --> 00:17:16,007
+Masuk ke kamarmu.
+
+206
+00:17:17,766 --> 00:17:19,894
+- Dan tidak ada makan malam.
+- Oh, Jay.
+
+207
+00:17:20,370 --> 00:17:21,153
+Helen.
+
+208
+00:17:56,983 --> 00:17:58,543
+Setidaknya kau menyukaiku.
+
+209
+00:18:02,591 --> 00:18:04,466
+Mobilnya sudah siap, Tn. Brown.
+
+210
+00:18:04,893 --> 00:18:06,890
+Oke, Charlie.
+Sampai jumpa lagi besok pagi.
+
+211
+00:18:42,824 --> 00:18:44,735
+Ini makanan yang lezat, Ny. Brown.
+
+212
+00:18:44,778 --> 00:18:47,305
+Benar-benar yang terbaik
+yang pernah saya rasakan.
+
+213
+00:18:47,349 --> 00:18:48,941
+Terima kasih.
+Terima kasih, Steve.
+
+214
+00:18:51,287 --> 00:18:53,916
+- Baiklah, kita harus segera pergi.
+- Apa?
+
+215
+00:18:53,958 --> 00:18:56,255
+Kau janji akan membawaku jalan-jalan,
+ingat, kan?
+
+216
+00:18:57,415 --> 00:18:59,390
+Benarkah?
+
+217
+00:19:00,000 --> 00:19:01,259
+Benar sekali.
+
+218
+00:19:01,300 --> 00:19:04,965
+Sayang, ayah pikir kau akan menonton
+ayah bertanding bowling malam ini.
+
+219
+00:19:05,006 --> 00:19:07,337
+Kami akan memperebutkan kejuaraan,
+kau tahu, kan?
+
+220
+00:19:07,373 --> 00:19:09,366
+- Oh, kami ...
+- Mungkin kami akan mampir nanti.
+
+221
+00:19:09,960 --> 00:19:12,725
+Tidak adakah yang mau makanan penutup
+sebelum meninggalkan meja makan?
+
+222
+00:19:12,871 --> 00:19:15,347
+- Tidak, terima kasih, bu.
+- Makanannya sangat enak.
+
+223
+00:19:15,385 --> 00:19:17,148
+- Terima kasih Nyonya.
+- Terima kasih kembali.
+
+224
+00:19:21,793 --> 00:19:22,908
+Helen?
+
+225
+00:19:23,529 --> 00:19:27,241
+Apa kau ... kau tahu,
+sudah bicara dengannya
+
+226
+00:19:27,326 --> 00:19:28,558
+tentang bagaimana seharusnya?
+
+227
+00:19:28,601 --> 00:19:30,034
+Sudah bertahun-tahun yang lalu.
+
+228
+00:19:31,184 --> 00:19:33,080
+Benarkah?
+
+229
+00:19:50,997 --> 00:19:53,364
+<i>Aku kira kau akan
+mengijinkan aku mengemudi?</i>
+
+230
+00:19:53,399 --> 00:19:55,302
+<i>Baiklah. Hati-hati.</i>
+
+231
+00:20:15,780 --> 00:20:17,393
+Untuk apa aku ke gudang tua?
+
+232
+00:20:17,431 --> 00:20:19,956
+Ayolah.
+Ini akan menjadi sangat romantis.
+
+233
+00:20:20,986 --> 00:20:21,935
+April...
+
+234
+00:20:21,971 --> 00:20:24,720
+Kau mau kunci mobilmu kembali, kan?
+
+235
+00:20:32,418 --> 00:20:35,183
+Ayo, Steve.
+Kau mau kunci mobilmu?
+
+236
+00:20:41,245 --> 00:20:43,490
+Ayolah!
+
+237
+00:21:22,056 --> 00:21:23,514
+Aku punya alergi.
+
+238
+00:21:25,663 --> 00:21:26,345
+Tunggu sebentar!
+
+239
+00:21:35,265 --> 00:21:36,328
+Masuklah.
+
+240
+00:21:44,385 --> 00:21:47,043
+Kau bisa berterima kasih pada ibumu
+yang sudah memberi sepiring makanan ini.
+
+241
+00:21:52,348 --> 00:21:54,155
+Di mana katapel itu?
+
+242
+00:22:00,765 --> 00:22:03,735
+Brad, kenapa kau selalu
+bertengkar dengan kakakmu?
+
+243
+00:22:03,768 --> 00:22:06,329
+Kenapa ayah dan Ibu
+selalu membelanya?
+
+244
+00:22:06,373 --> 00:22:09,036
+Maksudku, aku bahkan tidak
+melakukan apa-apa!
+
+245
+00:22:09,076 --> 00:22:11,771
+Nak, kau menembaknya
+dengan ketapel.
+
+246
+00:22:14,449 --> 00:22:15,939
+Benar.
+
+247
+00:22:18,353 --> 00:22:21,381
+Ngomong-ngomong, ayah akan menyita ini
+sampai ada pemberitahuan lebih lanjut.
+
+248
+00:22:21,424 --> 00:22:23,359
+- Tapi ayah ...
+- Dan tidak boleh nonton film ...
+
+249
+00:22:23,394 --> 00:22:24,691
+selama dua minggu.
+
+250
+00:22:28,800 --> 00:22:30,826
+Tidak, uh ... April ...
+
+251
+00:22:32,561 --> 00:22:35,936
+Jika ayahmu tahu,
+aku bisa mati.
+
+252
+00:22:35,977 --> 00:22:38,445
+Dia bahkan tidak menyukai aku
+memakan makanannya.
+
+253
+00:22:40,282 --> 00:22:42,878
+Orang tuaku tidak pernah
+datang ke sini malam hari.
+
+254
+00:22:44,060 --> 00:22:45,100
+Kau yakin?
+
+255
+00:22:47,357 --> 00:22:48,326
+<i>Maaf.</i>
+
+256
+00:22:48,359 --> 00:22:50,073
+Chewie!
+
+257
+00:24:18,159 --> 00:24:20,275
+<i>Dan sekarang lagu urutan pertama
+minggu lalu adalah ...</i>
+
+258
+00:24:20,311 --> 00:24:22,709
+<i>"Power Of The Night."
+Dari Johnny Steele.</i>
+
+259
+00:25:08,885 --> 00:25:10,271
+Jay?
+
+260
+00:25:10,309 --> 00:25:12,573
+<i>Ada masalah dengan TV-nya!</i>
+
+261
+00:25:32,571 --> 00:25:34,198
+Jay?
+
+262
+00:25:41,583 --> 00:25:43,573
+Tanahnya bergerak.
+
+263
+00:25:43,618 --> 00:25:45,449
+- Benarkah?
+- Ya.
+
+264
+00:25:47,847 --> 00:25:50,688
+Jay, bisakah kau lupakan
+pergerakan tanahnya? Ayo.
+
+265
+00:25:51,325 --> 00:25:53,094
+Aku hanya akan memeriksanya.
+
+266
+00:25:53,130 --> 00:25:56,220
+Kita akan terlambat
+untuk ke turnamen.
+
+267
+00:26:26,593 --> 00:26:28,435
+Brad, apa  yang kau lakukan
+di atas situ?
+
+268
+00:26:28,476 --> 00:26:31,912
+Ayah ... ayah lihat ... eh ...
+
+269
+00:26:31,947 --> 00:26:34,312
+Gempa buminya melemparkan aku
+sampai keluar dari kamarku.
+
+270
+00:26:34,466 --> 00:26:35,286
+Ayah tidak akan percaya itu.
+
+271
+00:26:35,454 --> 00:26:38,018
+Hentikan omong kosongmu
+dan segera turun.
+
+272
+00:26:43,261 --> 00:26:46,392
+Kau terlihat seperti
+sudah sering melakukannya.
+
+273
+00:26:46,433 --> 00:26:48,127
+- Hanya beberapa kali.
+- Yang benar saja.
+
+274
+00:26:48,168 --> 00:26:49,691
+Ayah akan mengawasimu.
+
+275
+00:26:49,736 --> 00:26:52,173
+- Kita akan pergi ke mana?
+- Ke ladang.
+
+276
+00:26:52,931 --> 00:26:55,665
+- Apa ayah melihat meteor tadi?
+- Ayah melihat sesuatu.
+
+277
+00:26:55,711 --> 00:26:59,477
+Mungkin mata-mata Rusia sedang
+melakukan penyelidikan misi rahasia.
+
+278
+00:27:00,109 --> 00:27:02,509
+Ayah rasa kau terlalu banyak
+nonton TV.
+
+279
+00:27:08,997 --> 00:27:11,245
+<i><font color=#ffff00>Laporan kondisi pesawat.</font></i>
+
+280
+00:27:12,303 --> 00:27:14,569
+<i><font color=#ffff00>Kerusakan ringan.</font></i>
+
+281
+00:27:16,991 --> 00:27:18,504
+<i><font color=#ffff00>Bagaimana sekarang?</font></i>
+
+282
+00:27:20,945 --> 00:27:22,525
+<i><font color=#ffff00>Makanan.</font></i>
+
+283
+00:27:59,695 --> 00:28:01,956
+Baunya seperti pelumas
+yang terbakar.
+
+284
+00:28:02,555 --> 00:28:04,488
+Bagiku baunya seperti kotoran sapi,
+ayah.
+
+285
+00:28:22,985 --> 00:28:24,616
+Astaga!
+
+286
+00:28:24,659 --> 00:28:26,684
+- Kau tidak apa-apa?
+- Ya.
+
+287
+00:28:28,065 --> 00:28:28,821
+Apa itu?
+
+288
+00:28:31,258 --> 00:28:32,802
+Sepertinya salah satu
+binatang gembala.
+
+289
+00:28:32,837 --> 00:28:35,533
+- Apa yang terjadi padanya?
+- Ayah tidak tahu
+
+290
+00:28:38,425 --> 00:28:40,638
+Tanpa senapan ayah,
+ayah tidak mau mencari tahu.
+
+291
+00:28:41,465 --> 00:28:42,453
+Ayo kita pergi.
+
+292
+00:28:43,150 --> 00:28:46,422
+Ibu akan merasa jijik
+jika dia mendengar tentang ini.
+
+293
+00:28:47,154 --> 00:28:49,920
+Mungkin seharusnya kita tidak
+menceritakan tentang hal ini,
+
+294
+00:28:49,957 --> 00:28:52,325
+sampai kita cari tahu lebih lanjut
+tentang apa yang terjadi di sini.
+
+295
+00:29:10,783 --> 00:29:13,987
+<i>Di sini G</i>XP 11 sembilan delapan,
+
+296
+00:29:14,023 --> 00:29:16,685
+masuklah Alpha Tango Delta.
+Ganti.
+
+297
+00:29:16,726 --> 00:29:18,786
+<i>Ada apa, Jeff?
+Ganti.</i>
+
+298
+00:29:18,829 --> 00:29:20,491
+Hei, Sal.
+
+299
+00:29:21,620 --> 00:29:25,094
+Bagaimana jika kita makan donat
+dan minum kopi sepulang kerja? Ganti.
+
+300
+00:29:25,137 --> 00:29:27,732
+<i>Tidak untuk malam ini, Jeff.
+Tidak untuk kapanpun. Ganti.</i>
+
+301
+00:29:28,630 --> 00:29:32,145
+Aku terima itu, Alpha Tango Delta.
+Ganti dan keluar.
+
+302
+00:29:39,414 --> 00:29:40,287
+Brengsek!
+
+303
+00:29:44,663 --> 00:29:46,362
+Dasar anjing sialan.
+
+304
+00:30:08,850 --> 00:30:10,055
+Kemarilah, anjing manis.
+
+305
+00:30:11,824 --> 00:30:13,168
+Kemari, anjing manis.
+
+306
+00:30:14,331 --> 00:30:15,162
+Ayolah.
+
+307
+00:30:15,856 --> 00:30:17,636
+Ayo, anjing manis.
+
+308
+00:30:17,671 --> 00:30:18,509
+Ayolah.
+
+309
+00:30:19,641 --> 00:30:22,166
+Guk, guk, guk.
+
+310
+00:30:22,210 --> 00:30:23,219
+Ayolah.
+
+311
+00:30:24,681 --> 00:30:26,308
+Apa ...?!
+
+312
+00:31:33,035 --> 00:31:34,766
+Dasar kucing sialan.
+
+313
+00:32:04,320 --> 00:32:07,229
+Oh, kau menakutiku!
+
+314
+00:32:07,636 --> 00:32:10,007
+- Oh!
+- Maafkan aku. Maafkan aku.
+
+315
+00:32:10,182 --> 00:32:13,076
+- Tadi ada sesuatu yang menatapku.
+- Apa maksudmu dengan sesuatu?
+
+316
+00:32:13,119 --> 00:32:15,885
+- Di mana?
+- Di sana, di jendela.
+
+317
+00:32:31,111 --> 00:32:34,232
+- Aku tidak melihat apa-apa.
+- Mungkin itu Chewie.
+
+318
+00:32:34,587 --> 00:32:36,242
+Ya, mungkin juga.
+
+319
+00:32:38,086 --> 00:32:39,375
+Apa kau menemukan sesuatu?
+
+320
+00:32:40,857 --> 00:32:44,224
+Ya, kami menemukan sesuatu
+sedikit aneh.
+
+321
+00:32:44,574 --> 00:32:45,784
+Jay?
+
+322
+00:33:01,048 --> 00:33:02,552
+Berubahlah.
+
+323
+00:33:03,184 --> 00:33:04,618
+Tidak ada yang menyukaiku.
+
+324
+00:33:05,120 --> 00:33:07,281
+Temukan sesuatu.
+
+325
+00:33:33,724 --> 00:33:35,693
+Proses makan sudah dimulai.
+
+326
+00:34:08,179 --> 00:34:09,634
+Siapa yang akan kau telepon?
+
+327
+00:34:09,670 --> 00:34:13,233
+Harv. Aku akan katakan padanya
+apa yang terjadi di sini.
+
+328
+00:34:13,274 --> 00:34:15,675
+Tapi mungkin dia sedang
+mendapat panggilan yang lain.
+
+329
+00:34:31,564 --> 00:34:32,691
+Teleponnya mati.
+
+330
+00:34:32,887 --> 00:34:34,531
+Apa?
+
+331
+00:34:43,058 --> 00:34:44,340
+Bu?
+
+332
+00:34:44,381 --> 00:34:46,282
+Tidak ada apa-apa.
+
+333
+00:34:52,224 --> 00:34:55,559
+Tidak ada alasan bagimu
+untuk turun. Tunggu sebentar.
+
+334
+00:34:55,596 --> 00:34:58,896
+Mungkin hanya sikring
+yang konslet.
+
+335
+00:35:13,752 --> 00:35:14,983
+Apa yang ...?
+
+336
+00:35:34,714 --> 00:35:35,941
+Jay, kau menemukan sesuatu?
+
+337
+00:35:37,051 --> 00:35:38,244
+Tunggu sebentar.
+
+338
+00:36:31,152 --> 00:36:32,676
+Apa apa?
+
+339
+00:36:36,026 --> 00:36:37,458
+Ayah!
+
+340
+00:36:37,495 --> 00:36:39,986
+<i>- Tetap di atas!</i>
+- Ibu, kita harus menolong ayah!
+
+341
+00:37:01,346 --> 00:37:03,855
+- Bradley!
+- Tidak, tidak, jangan kemari!
+
+342
+00:37:25,327 --> 00:37:26,387
+Jay, ayo!
+
+343
+00:37:26,423 --> 00:37:28,050
+Ada apa di bawah sana?
+
+344
+00:37:28,092 --> 00:37:30,960
+Aku tidak tahu.
+Ada makhluk yang sangat jahat.
+
+345
+00:37:56,497 --> 00:37:59,329
+<i>Jeff, masuklah, Jeff.
+Ganti.</i>
+
+346
+00:38:01,268 --> 00:38:04,102
+<i>Di sini Alpha Tango Delta</i>
+
+347
+00:38:04,139 --> 00:38:07,200
+<i>memanggil GXP
+11 sembilan delapan.</i>
+
+348
+00:38:07,244 --> 00:38:08,642
+<i>Masuklah. Ganti.</i>
+
+349
+00:38:11,081 --> 00:38:14,608
+<i>Ayolah, bisakah kau berhenti
+bermain-main dan jawab aku? Ganti.</i>
+
+350
+00:38:23,598 --> 00:38:27,830
+<i>Baiklah, aku minta maaf
+soal donat dan kopi tadi.</i>
+
+351
+00:38:27,868 --> 00:38:31,466
+<i>Mungkin lain kali, tapi malam ini
+aku harus mencuci rambutku.</i>
+
+352
+00:38:31,507 --> 00:38:33,237
+<i>Ganti.</i>
+
+353
+00:38:38,317 --> 00:38:40,751
+<i>Ayolah, Jeff.</i>
+
+354
+00:38:40,785 --> 00:38:44,120
+<i>Aku sudah mendapatkan segala macam
+panggilan tentang UFO di daerah sini.</i>
+
+355
+00:38:44,157 --> 00:38:47,481
+<i>Carla Emmons bersumpah melihat salah
+satunya hampir masuk ke rumahnya</i>
+
+356
+00:38:47,562 --> 00:38:49,292
+<i>dan kemudian terbang.</i>
+
+357
+00:38:49,330 --> 00:38:52,095
+<i>Aku rasa dia sudah
+mulai mabuk lagi.</i>
+
+358
+00:38:53,268 --> 00:38:56,636
+<i>Pokoknya, dia mau kau ke sana
+dengan segera. Ganti.</i>
+
+359
+00:39:00,045 --> 00:39:02,947
+<i>Aku mulai kehilangan kesabaran, Jeff.</i>
+
+360
+00:39:02,981 --> 00:39:05,644
+<i>Kalau kau tidur lagi saat bekerja,
+aku tidak akan ...</i>
+
+361
+00:39:29,949 --> 00:39:31,713
+Aku tidak bisa merasakan itu.
+
+362
+00:39:43,406 --> 00:39:45,196
+Hei, hati-hati, nak.
+
+363
+00:39:45,235 --> 00:39:47,781
+Itu sepertinya beracun.
+
+364
+00:39:48,340 --> 00:39:49,474
+Itu lebih baik, sayang.
+
+365
+00:39:49,956 --> 00:39:52,214
+Aku mulai mendapatkan kembali rasa.
+
+366
+00:40:05,795 --> 00:40:07,388
+Aku akan matikan musiknya.
+
+367
+00:40:23,140 --> 00:40:23,782
+Steve!
+
+368
+00:40:27,857 --> 00:40:29,154
+Steve!
+
+369
+00:40:48,351 --> 00:40:49,716
+Siapa itu?
+
+370
+00:40:49,752 --> 00:40:50,913
+April!
+
+371
+00:40:50,954 --> 00:40:52,421
+April?
+
+372
+00:41:05,752 --> 00:41:06,870
+Brad!
+
+373
+00:41:08,901 --> 00:41:10,577
+April?
+
+374
+00:41:10,612 --> 00:41:12,829
+Brad! Brad, tolong!
+
+375
+00:41:13,705 --> 00:41:15,019
+Cepat!
+
+376
+00:41:17,321 --> 00:41:18,788
+Lakukan sesuatu, Brad!
+
+377
+00:41:22,663 --> 00:41:24,083
+Brad!
+
+378
+00:41:30,516 --> 00:41:31,128
+Brad!
+
+379
+00:41:59,242 --> 00:42:01,711
+- Brad!
+- Ibu!
+
+380
+00:42:02,738 --> 00:42:05,581
+- Apa? Apa yang kau ...
+- Steve sudah mati!
+
+381
+00:42:11,625 --> 00:42:13,684
+Charlie?
+
+382
+00:42:13,728 --> 00:42:15,628
+- Hubungi Harv.
+- Untuk apa?
+
+383
+00:42:16,818 --> 00:42:18,565
+Hubungi Harv.
+Hubungi.
+
+384
+00:42:18,600 --> 00:42:21,161
+Hubungi tentara.
+Mereka ada di sini.
+
+385
+00:42:23,159 --> 00:42:24,236
+- Siapa?
+- Siapa?!
+
+386
+00:42:24,274 --> 00:42:26,800
+Mereka!
+Pesan dari gigiku
+
+387
+00:42:26,845 --> 00:42:29,972
+Sally, hubungi Harv, kumohon?
+
+388
+00:42:31,127 --> 00:42:32,381
+Charlie...
+
+389
+00:42:33,519 --> 00:42:34,781
+Aku mau pulang.
+
+390
+00:42:35,843 --> 00:42:38,553
+Baiklah.
+Katakan saja ... di mana dia?
+
+391
+00:42:38,592 --> 00:42:40,321
+Mungkin di arena bowling.
+
+392
+00:42:40,361 --> 00:42:43,491
+Baiklah, bagus, bagus.
+Aku akan mencari Harv.
+
+393
+00:42:43,533 --> 00:42:45,762
+- Kau hubungi tentara.
+- Baiklah.
+
+394
+00:42:54,313 --> 00:42:56,905
+Terima kasih, Ny. Grubner.
+
+395
+00:42:58,006 --> 00:42:59,349
+Malam ini ...
+
+396
+00:42:59,385 --> 00:43:02,481
+Saya ingin membacakan untuk anda
+dari Kitab Asal Usul.
+
+397
+00:43:02,525 --> 00:43:05,790
+Bab 19 ... yang mana,
+seperti yang anda tahu,
+
+398
+00:43:05,828 --> 00:43:09,025
+adalah cerita tentang
+Sodom dan Gomorrah.
+
+399
+00:43:17,876 --> 00:43:21,177
+Jelas, bahwa ada beberapa
+dari warga kita yang ...
+
+400
+00:43:43,474 --> 00:43:45,238
+Kami kemari untuk
+memberantas para Crite.
+
+401
+00:43:54,590 --> 00:43:57,422
+Pemerintah harus membayar
+untuk kerusakan ini, Jeff.
+
+402
+00:44:02,556 --> 00:44:03,424
+Jeff?
+
+403
+00:44:06,071 --> 00:44:08,132
+Jeff?
+
+404
+00:44:17,687 --> 00:44:18,882
+Jeff Barnes?
+
+405
+00:45:20,067 --> 00:45:21,660
+Jay.
+
+406
+00:45:23,739 --> 00:45:25,139
+Jay, apa yang sedang kau lakukan?
+
+407
+00:45:29,812 --> 00:45:31,975
+Mungkin kita harus tetap di sini.
+
+408
+00:45:32,016 --> 00:45:34,041
+Mereka belum masuk ke dalam rumah.
+
+409
+00:45:34,085 --> 00:45:35,747
+Mereka akan masuk.
+
+410
+00:45:35,787 --> 00:45:39,316
+Kita bisa memaku papan ke tembok.
+Kita bisa membuat rumah ini lebih kuat.
+
+411
+00:45:39,359 --> 00:45:41,953
+Helen, makhluk-makhluk itu
+sangat jahat.
+
+412
+00:45:41,995 --> 00:45:44,596
+Mereka sudah memotong jalur telepon kita,
+mereka sudah memotong jalur listrik kita.
+
+413
+00:45:44,733 --> 00:45:46,496
+Kau mengerti apa maksudnya itu?
+
+414
+00:45:46,534 --> 00:45:49,367
+Kita hanya menunggu waktu
+sampai mereka masuk ke sini.
+
+415
+00:45:49,405 --> 00:45:51,340
+Ya, tapi kita harus
+tetap di sini.
+
+416
+00:45:51,374 --> 00:45:53,401
+Tidak, kita tidak bisa menunggu.
+
+417
+00:46:03,957 --> 00:46:05,721
+Tunggu, Brad.
+
+418
+00:46:06,633 --> 00:46:09,077
+- Aku tidak sanggup.
+- Ayo, kau pasti bisa, sayang.
+
+419
+00:46:09,165 --> 00:46:11,028
+Baiklah, Jay,
+Ibu akan menjagamu.
+
+420
+00:46:14,002 --> 00:46:16,395
+Baiklah, ayo.
+Tetap bersama.
+
+421
+00:46:25,051 --> 00:46:27,112
+Aku yang akan mengemudi, Jay.
+
+422
+00:46:27,154 --> 00:46:28,985
+Baiklah, sayang.
+
+423
+00:46:34,451 --> 00:46:36,611
+Ayo.
+
+424
+00:46:37,600 --> 00:46:39,362
+Ya Tuhan, Jay
+
+425
+00:46:39,402 --> 00:46:41,803
+- Oh, bu.
+- Jenis makhluk apa mereka itu?
+
+426
+00:46:41,839 --> 00:46:44,032
+Mereka dari luar angkasa,
+seperti yang Charlie katakan.
+
+427
+00:46:44,174 --> 00:46:44,831
+Bradley.
+
+428
+00:46:45,243 --> 00:46:47,940
+Mungkin mereka semacam percobaan
+pemerintah yang gagal.
+
+429
+00:46:47,980 --> 00:46:51,280
+Mungkin dulunya mereka tikus tanah,
+tapi terkena radioaktif...
+
+430
+00:46:51,318 --> 00:46:53,602
+- Bradley!
+- Apa yang akan kita lakukan sekarang?
+
+431
+00:46:54,008 --> 00:46:55,619
+Ini kunci mobil Steve.
+
+432
+00:46:55,876 --> 00:46:58,353
+Ya, Tuhan.
+Tunggu!
+
+433
+00:47:02,132 --> 00:47:03,862
+Tetap bersama.
+
+434
+00:47:04,313 --> 00:47:05,527
+Ayo.
+
+435
+00:47:27,526 --> 00:47:28,760
+Pergilah!
+
+436
+00:47:34,038 --> 00:47:35,302
+Mereka semakin besar!
+
+437
+00:47:39,531 --> 00:47:42,015
+Ayo, lebih cepat!
+Lebih Cepat!
+
+438
+00:47:52,130 --> 00:47:53,187
+Pintunya terkunci!
+
+439
+00:47:53,231 --> 00:47:54,561
+Ayo!
+
+440
+00:47:58,654 --> 00:47:59,900
+Ayo! Masuk!
+
+441
+00:48:07,349 --> 00:48:08,408
+Jay!
+
+442
+00:48:21,955 --> 00:48:23,435
+Brad!
+
+443
+00:48:43,530 --> 00:48:45,861
+Sandarkan ayahmu ke pintu.
+
+444
+00:48:45,898 --> 00:48:47,925
+Naikkan kakimu, Jay!
+
+445
+00:48:51,073 --> 00:48:52,383
+Bu, tembak!
+
+446
+00:48:52,389 --> 00:48:54,806
+Aku tidak bisa!
+Senjatanya pasti kosong!
+
+447
+00:48:55,712 --> 00:48:57,874
+Di sakuku.
+Di saku bajuku!
+
+448
+00:48:57,915 --> 00:48:59,507
+Ambil pelurunya. Cepat.
+
+449
+00:49:33,878 --> 00:49:35,144
+<font color=#ffff00>Mereka punya senjata.</font>
+
+450
+00:49:35,482 --> 00:49:36,477
+<font color=#ffff00>Memangnya kenapa?</font>
+
+451
+00:49:39,615 --> 00:49:40,606
+<font color=#ffff00>Sial</font>
+
+452
+00:49:54,219 --> 00:49:55,915
+- Bagaimana?
+- Teleponnya sibuk.
+
+453
+00:49:55,955 --> 00:49:58,048
+Aku tidak mengerti.
+Jay tidak pernah terlambat seperti ini.
+
+454
+00:49:58,214 --> 00:50:00,287
+- Kecuali jika dia harus membayar bir.
+- Ya.
+
+455
+00:50:00,829 --> 00:50:03,822
+Jake, mereka akan datang.
+
+456
+00:50:03,866 --> 00:50:06,735
+Mereka tidak hanya akan datang,
+tapi mereka sudah ada di sini.
+
+457
+00:50:06,891 --> 00:50:08,961
+Kau lihat, aku keluar
+dari Rute 22 ...
+
+458
+00:50:10,095 --> 00:50:13,034
+- Dan aku melihat ke atas ...
+- Minum saja lagi, Charlie.
+
+459
+00:50:14,947 --> 00:50:17,074
+Aku tidak mau minun lagi, Jake.
+
+460
+00:50:18,785 --> 00:50:21,414
+Aku mau bertemu Harv.
+Kita sedang diserang.
+
+461
+00:50:21,456 --> 00:50:23,720
+Aku akan meninggalkan
+minumannya di sini.
+
+462
+00:50:24,200 --> 00:50:27,033
+Hanya saja,
+jangan ganggu aku lagi.
+
+463
+00:50:28,031 --> 00:50:30,158
+Aku melihat segalanya bergetar..
+
+464
+00:50:40,546 --> 00:50:43,294
+<i>- Bukankah itu Johnny Steele?
+- Aku tidak tahu.</i>
+
+465
+00:50:52,129 --> 00:50:53,435
+Whoa!
+
+466
+00:51:04,511 --> 00:51:05,993
+Joe, ayo kita pergi.
+
+467
+00:51:53,373 --> 00:51:54,807
+Astaga!
+
+468
+00:51:56,244 --> 00:51:58,144
+Dari tim mana dia?
+
+469
+00:52:10,395 --> 00:52:13,228
+Hei, Jake, apa kita bisa dikirimi
+bir ke sini atau tidak?
+
+470
+00:52:13,266 --> 00:52:15,633
+Tenang sajalah, brengsek.
+
+471
+00:52:16,371 --> 00:52:18,035
+Aku sedang ada masalah di sini.
+
+472
+00:52:20,375 --> 00:52:22,310
+Bisa kau lihat orang-orang ini?
+
+473
+00:52:23,980 --> 00:52:25,811
+Sekarang bukan Halloween, kan?
+
+474
+00:52:28,920 --> 00:52:33,620
+<i>Jika sesuatu terjadi padaku,
+kalian tidak akan hidup lama.</i>
+
+475
+00:52:33,660 --> 00:52:36,925
+<i>Apa maksudnya,
+kami tidak akan hidup lama?</i>
+
+476
+00:52:38,667 --> 00:52:40,634
+Apa yang bisa aku bantu
+untuk kalian, sobat?
+
+477
+00:52:40,668 --> 00:52:43,194
+Pendeta, apa yang sedang
+anda lakukan di sini?
+
+478
+00:52:43,238 --> 00:52:45,172
+Kalian memakai pakaian
+yang keren.
+
+479
+00:52:45,208 --> 00:52:47,767
+- Kami mencari para Crite.
+- Benarkah?
+
+480
+00:52:47,810 --> 00:52:49,770
+Siapa mereka?
+Tim bowling baru?
+
+481
+00:52:54,185 --> 00:52:55,344
+Para Crite.
+
+482
+00:52:55,387 --> 00:52:57,413
+Tuan, saya tidak tahu
+apa yang sedang anda bicarakan.
+
+483
+00:53:01,594 --> 00:53:04,360
+Aku rasa kalian berdua sebaiknya pergi,
+
+484
+00:53:04,399 --> 00:53:05,993
+sebelum ada yang terluka.
+
+485
+00:53:15,079 --> 00:53:17,981
+Kalian berdua punya masalah serius
+dengan tata krama.
+
+486
+00:53:19,918 --> 00:53:21,318
+Tenanglah, brengsek.
+
+487
+00:54:17,091 --> 00:54:19,060
+Ini harus jadi telepon penting.
+
+488
+00:54:19,095 --> 00:54:20,978
+<i>Harv, lebih baik kau ke gereja,</i>
+
+489
+00:54:21,032 --> 00:54:23,192
+<i>- terjadi kekacauan.</i>
+- Apa?
+
+490
+00:54:23,232 --> 00:54:25,795
+<i>Pendeta bilang ada
+orang yang menembak ...</i>
+
+491
+00:54:25,837 --> 00:54:27,862
+Whoa, bicara pelan-pelan.
+
+492
+00:54:27,906 --> 00:54:29,636
+<i>... menghancurkan organ,
+kau tahu bagaimana indahnya ...</i>
+
+493
+00:54:29,676 --> 00:54:31,734
+- Di mana Jeff?
+<i>- Aku tidak tahu.</i>
+
+494
+00:54:31,778 --> 00:54:33,830
+<i>Aku sudah berusaha menghubunginya
+selama berjam-jam.</i>
+
+495
+00:54:34,237 --> 00:54:36,211
+Beri aku waktu 10 menit.
+
+496
+00:54:58,279 --> 00:54:59,941
+Ayah sepertinya terluka parah, bu.
+
+497
+00:55:01,249 --> 00:55:02,477
+Ayah baik-baik saja, nak.
+
+498
+00:55:02,518 --> 00:55:03,882
+Ayahmu baik-baik saja
+
+499
+00:55:05,255 --> 00:55:06,949
+Bagiku tidak terlihat begitu.
+
+500
+00:55:06,989 --> 00:55:08,931
+Kenapa kau tidak
+periksa saja jendela?
+
+501
+00:55:09,026 --> 00:55:11,689
+- Aku sudah melakukannya.
+- Periksa lagi!
+
+502
+00:55:23,212 --> 00:55:24,906
+Tenang, bu
+
+503
+00:55:24,946 --> 00:55:27,382
+Ibu benar-benar minta maaf.
+
+504
+00:55:46,172 --> 00:55:47,869
+April?
+
+505
+00:55:47,909 --> 00:55:50,038
+Ya?
+
+506
+00:55:50,771 --> 00:55:52,981
+Kau tidak apa-apa?
+
+507
+00:55:58,156 --> 00:55:59,954
+Cerobong asapnya terbuka!
+
+508
+00:56:13,141 --> 00:56:14,506
+Bu!
+
+509
+00:56:30,798 --> 00:56:32,187
+Senapannya!
+
+510
+00:57:12,919 --> 00:57:14,519
+Brad!
+Brad, awas!
+
+511
+00:57:42,423 --> 00:57:44,016
+Hei, hei!
+
+512
+00:57:44,058 --> 00:57:45,583
+Hei, hei!
+
+513
+00:57:46,696 --> 00:57:48,890
+Aku mencari kalian, selama ini!
+
+514
+00:57:48,932 --> 00:57:50,797
+Aku hanya ingin bicara
+dengan kalian.
+
+515
+00:57:51,869 --> 00:57:54,532
+- Pada awalnya dia adalah Jeff.
+- Apa dia Jeff atau bukan?
+
+516
+00:57:54,572 --> 00:57:56,802
+- Sebenarnya, dia berubah.
+- Berubah?
+
+517
+00:57:57,030 --> 00:57:58,867
+Mereka memakai pakaian
+yang benar-benar aneh.
+
+518
+00:57:59,324 --> 00:58:00,504
+Sepertinya mereka dari Los Angeles.
+
+519
+00:58:00,546 --> 00:58:03,882
+- Semuanya tenang.
+<i>- Harv, semuanya kacau. Ganti</i>
+
+520
+00:58:03,917 --> 00:58:07,116
+- Ya, Sal. Ganti.
+- Ada gangguan,
+
+521
+00:58:07,155 --> 00:58:09,227
+di Bowlarama Lanes. <i>Ganti.</i>
+
+522
+00:58:09,458 --> 00:58:11,371
+Gangguan apa? Ganti.
+
+523
+00:58:11,561 --> 00:58:13,476
+Baiklah ...
+
+524
+00:58:14,640 --> 00:58:18,069
+jelasnya, ada orang yang
+menembakkan senjata di bar.
+
+525
+00:58:19,972 --> 00:58:21,804
+Kau mendapatkan ciri-cirinya?
+Ganti.
+
+526
+00:58:22,913 --> 00:58:24,505
+Sebenarnya ...
+
+527
+00:58:25,335 --> 00:58:27,981
+ini agak aneh, Harv,
+tapi Jake bilang
+
+528
+00:58:28,015 --> 00:58:31,885
+mereka adalah
+Pendeta Miller dan Charlie,
+
+529
+00:58:31,920 --> 00:58:33,718
+dan orang asing.
+
+530
+00:58:34,320 --> 00:58:35,951
+Tunggu, tunggu,
+tunggu.
+
+531
+00:58:35,993 --> 00:58:38,189
+Aku tidak mengerti, Sal.
+
+532
+00:58:38,229 --> 00:58:39,786
+<i>Ulangi lagi. Ganti.</i>
+
+533
+00:58:39,830 --> 00:58:42,163
+Pendeta Miller,
+Charlie McFadden
+
+534
+00:58:42,200 --> 00:58:45,501
+dan orang asing yang
+menembakkan senjata di bar,
+
+535
+00:58:45,539 --> 00:58:47,912
+di Bowlarama Lanes. Ganti.
+
+536
+00:58:48,981 --> 00:58:51,012
+Ada kabar dari Jeff? Ganti.
+
+537
+00:58:51,597 --> 00:58:54,039
+Aku tidak bisa membangunkannya, Harv.
+
+538
+00:58:55,004 --> 00:58:57,448
+Aku juga mendapat laporan,
+
+539
+00:58:57,453 --> 00:58:59,979
+tentang adanya tembakan
+dari Route 22 ...
+
+540
+00:59:00,023 --> 00:59:02,254
+<i>dekat kediaman keluarga Brown.
+Ganti.</i>
+
+541
+00:59:03,561 --> 00:59:05,626
+Harv, apa bisa diterima? Ganti.
+
+542
+00:59:05,762 --> 00:59:08,599
+Sal, aku ingin kau terus
+mencoba membangunkan Jeff.
+
+543
+00:59:08,635 --> 00:59:10,795
+<i>Aku menuju ke arena bowling.</i>
+
+544
+00:59:10,837 --> 00:59:13,238
+<i>Lalu aku akan ke
+tempat keluarga Brown.</i>
+
+545
+00:59:13,273 --> 00:59:14,606
+<i>Ganti dan keluar.</i>
+
+546
+00:59:14,642 --> 00:59:16,075
+Ganti dan keluar.
+
+547
+00:59:27,392 --> 00:59:29,121
+Tangkap mereka, Harv!
+
+548
+00:59:34,468 --> 00:59:37,633
+Sayang, aku harus mendapat telepon,
+mencari bantuan agar keluar dari sini.
+
+549
+00:59:39,941 --> 00:59:41,772
+Aku bisa melakukannya.
+
+550
+00:59:41,810 --> 00:59:44,679
+- Tidak boleh sama sekali.
+- Ayah... ayah bahkan tidak bisa berjalan
+
+551
+00:59:47,718 --> 00:59:49,811
+Aku sangat lelah.
+
+552
+00:59:55,033 --> 00:59:56,157
+Sial.
+
+553
+00:59:58,829 --> 01:00:00,698
+Nak ...
+
+554
+01:00:00,735 --> 01:00:03,602
+jika ayah perbolehkan,
+bagaimana kau akan melakukannya?
+
+555
+01:00:03,639 --> 01:00:06,404
+Ke halaman, mengambil sepedaku
+dan menuju jalan raya.
+
+556
+01:00:07,520 --> 01:00:10,243
+Ayah, harus ada seseorang
+yang mencari bantuan.
+
+557
+01:00:10,924 --> 01:00:12,373
+Baiklah.
+
+558
+01:00:12,829 --> 01:00:15,872
+Tapi nak, kau harus bersepeda seperti
+kau belum pernah bersepeda sebelumnya.
+
+559
+01:00:16,080 --> 01:00:18,272
+Kau pergi ke rumah Emmons
+dan gunakan teleponnya.
+
+560
+01:00:18,476 --> 01:00:20,466
+- Suruh Harv kemari.
+- Ayah, aku akan baik-baik saja.
+
+561
+01:00:20,613 --> 01:00:22,024
+Jangan kuatir.
+
+562
+01:00:22,063 --> 01:00:23,860
+Kau ingin membawa ini?
+
+563
+01:00:26,244 --> 01:00:28,166
+Tidak, ayah saja yang pegang.
+
+564
+01:00:28,203 --> 01:00:29,491
+Itu hanya akan memperlambat aku.
+
+565
+01:00:30,114 --> 01:00:31,925
+Lagi pula, ayah mungkin
+lebih membutuhkannya.
+
+566
+01:00:51,133 --> 01:00:52,555
+Brad?
+
+567
+01:00:55,171 --> 01:00:56,673
+Sampai bertemu lagi.
+
+568
+01:02:13,972 --> 01:02:15,635
+Astaga.
+
+569
+01:02:15,931 --> 01:02:17,420
+Mereka tumbuh besar!
+
+570
+01:02:52,135 --> 01:02:53,982
+Bagaimana perasaanmu, sayang?
+
+571
+01:02:56,462 --> 01:02:58,486
+Seperti dipukul dengan batu bata.
+
+572
+01:03:02,035 --> 01:03:03,263
+Oh, sayang.
+
+573
+01:03:07,008 --> 01:03:09,034
+Sudah berapa lama aku ...?
+
+574
+01:03:11,081 --> 01:03:12,843
+Di mana Brad?
+
+575
+01:03:14,022 --> 01:03:15,818
+Brad sudah pergi
+untuk mencari bantuan.
+
+576
+01:03:16,992 --> 01:03:19,474
+Oh, Jay, kau seharusnya tidak
+membiarkan dia pergi.
+
+577
+01:03:40,637 --> 01:03:42,131
+<font color=#ffff00>Siapakah dirimu?</font>
+
+578
+01:04:14,882 --> 01:04:16,200
+Berhenti, berhenti!
+Tunggu!
+
+579
+01:04:23,457 --> 01:04:26,308
+Jalan, ayo jalan saja.
+Makhluk-makhluk ini ... para Critter ini.
+
+580
+01:04:27,128 --> 01:04:28,278
+Ayo, jalan!
+
+581
+01:04:28,313 --> 01:04:30,977
+Ayah dicabik-cabik dan
+Ibu mendapat tusukan di lehernya.
+
+582
+01:04:31,017 --> 01:04:32,654
+Mereka akan tumbuh lebih besar.
+
+583
+01:04:33,764 --> 01:04:35,414
+Ayo kita pergi!
+
+584
+01:04:36,622 --> 01:04:37,985
+Charlie?
+
+585
+01:04:39,216 --> 01:04:41,089
+Di mana Jeff?
+
+586
+01:04:42,793 --> 01:04:44,566
+Hei, kau Johnny Steele.
+
+587
+01:04:44,601 --> 01:04:46,686
+- Di mana?
+- Huh?
+
+588
+01:04:46,824 --> 01:04:47,707
+Di mana mereka?
+
+589
+01:04:48,741 --> 01:04:50,980
+Di rumahku.
+Ayo, kita ke sana.
+
+590
+01:04:55,801 --> 01:04:56,791
+Ke mana?
+
+591
+01:04:58,346 --> 01:05:00,366
+Charlie, kau tahu
+di mana rumahku.
+
+592
+01:05:02,257 --> 01:05:03,663
+Siapa kalian?
+
+593
+01:05:05,360 --> 01:05:06,920
+Kami mencari para Crite.
+
+594
+01:05:08,044 --> 01:05:09,257
+Crites?
+
+595
+01:05:09,762 --> 01:05:11,861
+Makhluk, Crites.
+
+596
+01:05:13,572 --> 01:05:15,597
+Kalian bukan dari sini, kan?
+
+597
+01:05:16,441 --> 01:05:19,408
+Baiklah, baiklah.
+Kalian bantu aku, aku bantu kalian.
+
+598
+01:05:42,341 --> 01:05:43,365
+Hentikan!
+
+599
+01:05:49,618 --> 01:05:51,984
+Brengsek, hentikan!
+
+600
+01:06:02,002 --> 01:06:03,065
+Aku sudah membunuh satu.
+
+601
+01:06:25,918 --> 01:06:27,856
+Keluar dari rumahku!
+
+602
+01:06:30,536 --> 01:06:33,129
+Sial!
+Berikan lagi aku peluru.
+
+603
+01:06:33,274 --> 01:06:34,337
+Hanya tinggal itu.
+
+604
+01:06:34,910 --> 01:06:36,571
+Oh, Jay.
+
+605
+01:06:59,247 --> 01:07:00,748
+<font color=#ffff00>Ayo berguling!</font>
+
+606
+01:07:11,755 --> 01:07:13,589
+Astaga...
+
+607
+01:07:17,970 --> 01:07:20,033
+Ibu? Ayah?
+
+608
+01:07:20,139 --> 01:07:22,058
+Apa kau baik-baik saja?
+
+609
+01:07:22,102 --> 01:07:24,087
+- Kau tidak apa-apa?
+- Ya.
+
+610
+01:07:24,561 --> 01:07:26,138
+Brad, siapa yang kau bawa?
+
+611
+01:07:26,176 --> 01:07:27,714
+Charlie dan Johnny Steele.
+
+612
+01:07:27,888 --> 01:07:29,635
+- Siapa?
+- Pergilah!
+
+613
+01:07:32,594 --> 01:07:34,243
+<i>Tolong kami!</i>
+
+614
+01:07:34,287 --> 01:07:35,914
+Oh, Tuhan, Chewie!
+
+615
+01:07:37,289 --> 01:07:39,724
+Tolong kami!
+Tolong kami!
+
+616
+01:07:39,759 --> 01:07:42,320
+Oh, itu Harv.
+
+617
+01:07:42,591 --> 01:07:44,195
+Astaga!
+Apa itu suara meriam?
+
+618
+01:07:44,231 --> 01:07:45,475
+Apa yang terjadi di sini?
+
+619
+01:07:45,581 --> 01:07:47,966
+Brad.
+Di mana Brad?
+
+620
+01:07:48,958 --> 01:07:50,053
+Dia masih di dalam rumah.
+
+621
+01:07:50,239 --> 01:07:52,538
+Helen, Helen!
+Helen, Helen, Helen!
+
+622
+01:07:52,577 --> 01:07:54,374
+Masuk ke mobil.
+Masuk ke mobil!
+
+623
+01:07:54,805 --> 01:07:55,879
+Masuklah ke mobil.
+Masuklah.
+
+624
+01:07:55,914 --> 01:07:57,732
+Jay, masuk ke mobil.
+
+625
+01:08:22,380 --> 01:08:23,507
+Awas!
+
+626
+01:08:54,872 --> 01:08:57,703
+Astaga, orang-orang ini
+menggunakan senjata pemusnah.
+
+627
+01:09:00,350 --> 01:09:02,459
+Charlie, kau pikir apa yang
+sedang kau lakukan?
+
+628
+01:09:06,747 --> 01:09:08,026
+Apa kau sedang mabuk?
+
+629
+01:09:15,475 --> 01:09:17,743
+Aku harap kau tidak akan
+mengambil alih operasi kami.
+
+630
+01:09:17,786 --> 01:09:19,777
+Charlie, turunkan aku.
+
+631
+01:09:32,007 --> 01:09:34,437
+Harv ...
+Kau tidak apa-apa?
+
+632
+01:09:34,473 --> 01:09:37,170
+Aku menelan tembakau kunyahku.
+
+633
+01:09:52,011 --> 01:09:53,338
+Chewie.
+
+634
+01:09:56,169 --> 01:09:57,515
+Kemarilah, Chewie.
+
+635
+01:10:12,556 --> 01:10:14,173
+Chewie.
+
+636
+01:10:14,793 --> 01:10:16,056
+Kemarilah.
+
+637
+01:10:25,007 --> 01:10:26,701
+Chewie.
+
+638
+01:10:29,645 --> 01:10:32,673
+Dari mana saja kau?
+Aku mencarimu ke mana-mana.
+
+639
+01:10:32,716 --> 01:10:34,911
+Ayo.
+Kita akan jalan-jalan.
+
+640
+01:10:34,952 --> 01:10:37,444
+<i>Brad, turun kemari!</i>
+
+641
+01:10:42,247 --> 01:10:44,690
+Brad!
+
+642
+01:10:54,270 --> 01:10:55,424
+Tolong!
+
+643
+01:11:12,979 --> 01:11:14,329
+Terima kasih.
+
+644
+01:11:18,098 --> 01:11:19,516
+Oh, tidak.
+
+645
+01:11:21,080 --> 01:11:22,946
+<i>April!</i>
+
+646
+01:11:26,406 --> 01:11:28,118
+Tidak, Helen, jangan!
+
+647
+01:11:28,153 --> 01:11:29,245
+Jangan!
+
+648
+01:11:30,126 --> 01:11:31,354
+Di mana April?
+
+649
+01:11:31,700 --> 01:11:35,354
+Makhluk itu baru saja membawanya.
+Aku tidak bisa ...
+
+650
+01:11:35,396 --> 01:11:36,867
+Makhluk itu besar.
+
+651
+01:11:36,876 --> 01:11:39,569
+- Ayo, Harv.
+- Mereka membawanya ke arah sana.
+
+652
+01:11:41,472 --> 01:11:42,901
+Makhluk apa itu?
+
+653
+01:11:50,484 --> 01:11:51,780
+Charlie?
+
+654
+01:12:03,542 --> 01:12:04,840
+Brad!
+
+655
+01:12:07,038 --> 01:12:09,096
+Brad!
+
+656
+01:12:09,140 --> 01:12:10,768
+Jangan!
+Cegah dia!
+
+657
+01:12:10,809 --> 01:12:13,073
+Cegah dia!
+
+658
+01:13:22,400 --> 01:13:24,494
+- Charlie?
+- Brad.
+
+659
+01:13:24,536 --> 01:13:26,556
+Aku benar.
+Aku benar!
+
+660
+01:13:26,837 --> 01:13:28,486
+Apa yang sedang kau lakukan di sini?
+
+661
+01:13:28,743 --> 01:13:30,250
+Aku hanya mengikuti
+petunjuk dari gigiku.
+
+662
+01:13:30,511 --> 01:13:33,243
+- Aku mendapat sinyal seperti orang gila.
+- Ayo.
+
+663
+01:13:33,281 --> 01:13:34,601
+Ke mana kita akan pergi?
+
+664
+01:13:46,732 --> 01:13:48,929
+- Apa yang ...
+- Shhh!
+
+665
+01:13:50,003 --> 01:13:52,009
+Brad, apa itu April?
+
+666
+01:14:04,642 --> 01:14:05,982
+- Tetap menunduk, Brad.
+- Diam di sini.
+
+667
+01:14:06,023 --> 01:14:07,418
+Jika aku membutuhkanmu,
+Aku akan berteriak.
+
+668
+01:14:08,260 --> 01:14:09,783
+Brad...
+
+669
+01:14:09,829 --> 01:14:11,378
+Apa yang makhluk itu sedang
+lakukan terhadap April?
+
+670
+01:14:11,535 --> 01:14:13,846
+- Makhluk itu akan membunuhnya.
+- Oh, makhluk itu akan membunuhnya.
+
+671
+01:14:14,184 --> 01:14:15,426
+Membunuhnya?!
+
+672
+01:14:17,237 --> 01:14:19,070
+Bradley!
+
+673
+01:14:58,726 --> 01:14:59,693
+Ayo kita pergi.
+
+674
+01:15:48,017 --> 01:15:49,270
+Brad!
+
+675
+01:15:49,583 --> 01:15:50,667
+April?
+
+676
+01:15:59,537 --> 01:16:00,858
+Ulurkan tanganmu!
+
+677
+01:16:04,973 --> 01:16:07,363
+- Aku menjatuhkan petasanku!
+- Lupakan saja!
+
+678
+01:16:07,528 --> 01:16:09,218
+Tapi mereka akan melarikan diri!
+
+679
+01:16:13,531 --> 01:16:14,921
+- Charlie, ayo
+- Ayo!
+
+680
+01:16:15,294 --> 01:16:17,694
+Brad, aku punya ide.
+Kemarilah!
+
+681
+01:16:17,861 --> 01:16:19,631
+- Beri aku api.
+- Brad!
+
+682
+01:16:19,982 --> 01:16:21,384
+Brad, ayo!
+
+683
+01:16:24,055 --> 01:16:24,841
+Menyalalah!
+
+684
+01:16:30,520 --> 01:16:31,629
+Lemparkan!
+
+685
+01:16:54,503 --> 01:16:56,108
+Ayah!
+
+686
+01:16:58,227 --> 01:17:00,311
+- Ibu, ayah!
+- Kalian tidak apa-apa?
+
+687
+01:17:00,349 --> 01:17:02,028
+Ya, kami baik-baik saja.
+
+688
+01:17:29,320 --> 01:17:30,558
+O ... Ouw ... !
+
+689
+01:18:01,851 --> 01:18:03,202
+Hei!
+
+690
+01:18:06,255 --> 01:18:10,131
+Aku, uh ...
+hanya ingin, kalian tahu ..
+
+691
+01:18:11,019 --> 01:18:12,703
+mengucapkan terima kasih.
+
+692
+01:18:22,163 --> 01:18:23,484
+Hubungi aku.
+
+693
+01:18:33,128 --> 01:18:35,036
+Dengar, kalian mungkin
+kebetulan punya
+
+694
+01:18:35,071 --> 01:18:37,335
+satu lagi alat gizmos elektronik
+
+695
+01:18:37,374 --> 01:18:38,850
+seperti yang kalian
+berikan pada Brad?
+
+696
+01:18:39,108 --> 01:18:41,334
+Dengar, mungkin kalian perlu
+mekanik yang handal
+
+697
+01:18:41,379 --> 01:18:42,846
+untuk mengurus
+senjata-senjata itu.
+
+698
+01:18:42,880 --> 01:18:44,441
+Aku benar-benar ahli dengan ...
+
+699
+01:20:11,445 --> 01:20:12,530
+Chewie!
+
+700
+01:20:48,209 --> 01:20:49,582
+Chewie?
+
+701
+01:20:57,754 --> 01:20:59,782
+Chew.
+
+702
+01:21:05,735 --> 01:21:08,240
+<font color="#ffff00">Translated by: E-ink
+at
+einkgfreak@yahoo.com</font>
